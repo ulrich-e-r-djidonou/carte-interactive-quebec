@@ -1,0 +1,1290 @@
+code_municipalite,nom_municipalite,designation,code_mrc,nom_mrc,code_region,nom_region
+99904,Baie-d'Hudson,NO,992,Kativik,10,Nord-du-Québec
+99885,Ivujivik,TI,992,Kativik,10,Nord-du-Québec
+99902,Rivière-Koksoak,NO,992,Kativik,10,Nord-du-Québec
+99140,Ivujivik,VN,992,Kativik,10,Nord-du-Québec
+99887,Salluit,TI,992,Kativik,10,Nord-du-Québec
+99135,Salluit,VN,992,Kativik,10,Nord-du-Québec
+99888,Kangiqsujuaq,TI,992,Kativik,10,Nord-du-Québec
+99130,Kangiqsujuaq,VN,992,Kativik,10,Nord-du-Québec
+99889,Quaqtaq,TI,992,Kativik,10,Nord-du-Québec
+99115,Quaqtaq,VN,992,Kativik,10,Nord-du-Québec
+99883,Akulivik,TI,992,Kativik,10,Nord-du-Québec
+99125,Akulivik,VN,992,Kativik,10,Nord-du-Québec
+99896,Killiniq,TI,992,Kativik,10,Nord-du-Québec
+99890,Kangirsuk,TI,992,Kativik,10,Nord-du-Québec
+99120,Puvirnituq,VN,992,Kativik,10,Nord-du-Québec
+99110,Kangirsuk,VN,992,Kativik,10,Nord-du-Québec
+99891,Aupaluk,TI,992,Kativik,10,Nord-du-Québec
+99105,Aupaluk,VN,992,Kativik,10,Nord-du-Québec
+99892,Tasiujaq,TI,992,Kativik,10,Nord-du-Québec
+99894,Kangiqsualujjuaq,TI,992,Kativik,10,Nord-du-Québec
+99100,Tasiujaq,VN,992,Kativik,10,Nord-du-Québec
+99090,Kangiqsualujjuaq,VN,992,Kativik,10,Nord-du-Québec
+99879,Inukjuak,TI,992,Kativik,10,Nord-du-Québec
+99085,Inukjuak,VN,992,Kativik,10,Nord-du-Québec
+99893,Kuujjuaq,TI,992,Kativik,10,Nord-du-Québec
+99095,Kuujjuaq,VN,992,Kativik,10,Nord-du-Québec
+99878,Umiujaq,TI,992,Kativik,10,Nord-du-Québec
+99080,Umiujaq,VN,992,Kativik,10,Nord-du-Québec
+99877,Kuujjuarapik,TI,992,Kativik,10,Nord-du-Québec
+99816,Whapmagoostui,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99075,Kuujjuarapik,VN,992,Kativik,10,Nord-du-Québec
+99065,Kawawachikamach,VK,992,Kativik,10,Nord-du-Québec
+99070,Whapmagoostui,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+97914,Lac-Vacher,NO,972,Caniapiscau,09,Côte-Nord
+97908,Caniapiscau,NO,972,Caniapiscau,09,Côte-Nord
+97912,Lac-Juillet,NO,972,Caniapiscau,09,Côte-Nord
+97806,Kawawachikamach,TK,972,Caniapiscau,09,Côte-Nord
+99924,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+97040,Schefferville,V,972,Caniapiscau,09,Côte-Nord
+97810,Lac-John,R,972,Caniapiscau,09,Côte-Nord
+97808,Matimekosh,R,972,Caniapiscau,09,Côte-Nord
+99060,Eeyou Istchee Baie-James,GR,991,Jamésie,10,Nord-du-Québec
+99055,Chisasibi,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99814,Chisasibi,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99875,Kiggaluk,TI,991,Jamésie,10,Nord-du-Québec
+99922,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+99812,Wemindji,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+97906,Rivière-Mouchalagane,NO,972,Caniapiscau,09,Côte-Nord
+99050,Wemindji,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+98904,Lac-Jérôme,NO,981,Minganie,09,Côte-Nord
+97035,Fermont,V,972,Caniapiscau,09,Côte-Nord
+94930,Mont-Valin,NO,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+98912,Petit-Mécatina,NO,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+99920,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+99045,Eastmain,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+97902,Rivière-Nipissis,NO,971,Sept-Rivières,09,Côte-Nord
+92902,Passes-Dangereuses,NO,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+99810,Eastmain,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99918,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+97904,Lac-Walker,NO,971,Sept-Rivières,09,Côte-Nord
+99040,Nemaska,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99808,Nemaska,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99916,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+98005,Blanc-Sablon,M,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+98015,Côte-Nord-du-Golfe-du-Saint-Laurent,M,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+98010,Bonne-Espérance,M,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+,,,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+96902,Rivière-aux-Outardes,NO,96,Manicouagan,09,Côte-Nord
+99035,Waskaganish,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99806,Waskaganish,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+98012,Saint-Augustin,M,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+98802,Pakuashipi,EI,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+98014,Gros-Mécatina,M,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+92904,Rivière-Mistassini,NO,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+99910,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+98040,Havre-Saint-Pierre,M,981,Minganie,09,Côte-Nord
+98050,Rivière-Saint-Jean,M,981,Minganie,09,Côte-Nord
+98045,Longue-Pointe-de-Mingan,M,981,Minganie,09,Côte-Nord
+97007,Sept-Îles,V,971,Sept-Rivières,09,Côte-Nord
+98030,Aguanish,M,981,Minganie,09,Côte-Nord
+98025,Natashquan,M,981,Minganie,09,Côte-Nord
+98035,Baie-Johan-Beetz,M,981,Minganie,09,Côte-Nord
+98055,Rivière-au-Tonnerre,M,981,Minganie,09,Côte-Nord
+98808,Mingan,R,981,Minganie,09,Côte-Nord
+97802,Uashat,R,971,Sept-Rivières,09,Côte-Nord
+97804,Maliotenam,R,971,Sept-Rivières,09,Côte-Nord
+98804,La Romaine,R,982,Le Golfe-du-Saint-Laurent,09,Côte-Nord
+97022,Port-Cartier,V,971,Sept-Rivières,09,Côte-Nord
+98806,Nutashkuan,R,981,Minganie,09,Côte-Nord
+99818,Oujé-Bougoumou,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99025,Chibougamau,V,991,Jamésie,10,Nord-du-Québec
+91902,Lac-Ashuapmushuan,NO,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+95902,Lac-au-Brochet,NO,95,La Haute-Côte-Nord,09,Côte-Nord
+98020,L'Île-d'Anticosti,M,981,Minganie,09,Côte-Nord
+99802,Waswanipi,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99020,Chapais,V,991,Jamésie,10,Nord-du-Québec
+99015,Matagami,V,991,Jamésie,10,Nord-du-Québec
+99010,Waswanipi,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+96005,Baie-Trinité,VL,96,Manicouagan,09,Côte-Nord
+96015,Franquelin,M,96,Manicouagan,09,Côte-Nord
+96010,Godbout,VL,96,Manicouagan,09,Côte-Nord
+96020,Baie-Comeau,V,96,Manicouagan,09,Côte-Nord
+04010,Saint-Maxime-du-Mont-Louis,M,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+04005,Sainte-Madeleine-de-la-Rivière-Madeleine,M,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+04015,Mont-Saint-Pierre,VL,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+03020,Grande-Vallée,M,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+04020,Rivière-à-Claude,M,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+96040,Ragueneau,P,96,Manicouagan,09,Côte-Nord
+04025,Marsoui,VL,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+03015,Petite-Vallée,M,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+92060,Notre-Dame-de-Lorette,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+04030,La Martre,M,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+03010,Cloridorme,CT,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+96030,Pointe-aux-Outardes,VL,96,Manicouagan,09,Côte-Nord
+96025,Pointe-Lebel,VL,96,Manicouagan,09,Côte-Nord
+04037,Sainte-Anne-des-Monts,V,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+96802,Pessamit,R,96,Manicouagan,09,Côte-Nord
+04902,Mont-Albert,NO,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+03902,Rivière-Saint-Jean,NO,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+96035,Chute-aux-Outardes,VL,96,Manicouagan,09,Côte-Nord
+92055,Girardville,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+03005,Gaspé,V,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+92070,Saint-Stanislas,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+04047,Cap-Chat,V,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+03904,Collines-du-Basque,NO,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+99005,Lebel-sur-Quévillon,V,991,Jamésie,10,Nord-du-Québec
+92045,Saint-Thomas-Didyme,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+92065,Saint-Eugène-d'Argentenay,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+92050,Saint-Edmond-les-Plaines,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+08005,Les Méchins,M,08,La Matanie,01,Bas-Saint-Laurent
+04904,Coulée-des-Adolphe,NO,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine
+92015,Sainte-Jeanne-d'Arc,VL,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+87100,Authier-Nord,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+87110,Clermont,CT,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+87115,Normétal,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+92022,Dolbeau-Mistassini,V,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+87105,Val-Saint-Gilles,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+87120,Saint-Lambert,P,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+88065,Saint-Dominique-du-Rosaire,M,88,Abitibi,08,Abitibi-Témiscamingue
+88902,Lac-Despinassy,NO,88,Abitibi,08,Abitibi-Témiscamingue
+87904,Rivière-Ojima,NO,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+88904,Lac-Chicobi,NO,88,Abitibi,08,Abitibi-Témiscamingue
+88070,Berry,M,88,Abitibi,08,Abitibi-Témiscamingue
+89040,Senneterre,V,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+90012,La Tuque,V,90,La Tuque,04,Mauricie
+92030,Albanel,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+03025,Murdochville,V,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine
+95050,Colombier,M,95,La Haute-Côte-Nord,09,Côte-Nord
+08015,Grosses-Roches,M,08,La Matanie,01,Bas-Saint-Laurent
+93080,Saint-Ludger-de-Milot,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+08902,Rivière-Bonjour,NO,08,La Matanie,01,Bas-Saint-Laurent
+87095,Chazel,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+87080,La Reine,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+08023,Sainte-Félicité,M,08,La Matanie,01,Bas-Saint-Laurent
+87085,Dupuy,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+92040,Normandin,V,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+08010,Saint-Jean-de-Cherbourg,P,08,La Matanie,01,Bas-Saint-Laurent
+08030,Saint-Adelme,P,08,La Matanie,01,Bas-Saint-Laurent
+87090,La Sarre,V,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+08053,Matane,V,08,La Matanie,01,Bas-Saint-Laurent
+95045,Forestville,V,95,La Haute-Côte-Nord,09,Côte-Nord
+92005,Saint-Augustin,P,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+91050,La Doré,P,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+91042,Saint-Félicien,V,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+92010,Péribonka,M,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+93060,Lamarche,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+93075,Sainte-Monique,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+87058,Macamic,V,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+08035,Saint-René-de-Matane,M,08,La Matanie,01,Bas-Saint-Laurent
+08073,Saint-Ulric,M,08,La Matanie,01,Bas-Saint-Laurent
+93065,L'Ascension-de-Notre-Seigneur,P,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+07910,Ruisseau-des-Mineurs,NO,07,La Matapédia,01,Bas-Saint-Laurent
+87050,Authier,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+87070,Sainte-Hélène-de-Mancebourg,P,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+87075,Clerval,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+08065,Saint-Léandre,P,08,La Matanie,01,Bas-Saint-Laurent
+94250,Bégin,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+88012,La Morandière-Rochebaucourt,M,88,Abitibi,08,Abitibi-Témiscamingue
+93055,Labrecque,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+95040,Portneuf-sur-Mer,M,95,La Haute-Côte-Nord,09,Côte-Nord
+08080,Baie-des-Sables,M,08,La Matanie,01,Bas-Saint-Laurent
+94245,Saint-David-de-Falardeau,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+87025,Palmarolle,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+93070,Saint-Henri-de-Taillon,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+08040,Sainte-Paule,M,08,La Matanie,01,Bas-Saint-Laurent
+87042,Taschereau,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+88080,Launay,CT,88,Abitibi,08,Abitibi-Témiscamingue
+88057,Amos,V,88,Abitibi,08,Abitibi-Témiscamingue
+07105,Saint-Damase,P,07,La Matapédia,01,Bas-Saint-Laurent
+95032,Longue-Rive,M,95,La Haute-Côte-Nord,09,Côte-Nord
+87035,Poularies,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+07075,Saint-Vianney,M,07,La Matapédia,01,Bas-Saint-Laurent
+02005,Percé,V,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine
+02902,Mont-Alexandre,NO,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine
+09048,Métis-sur-Mer,V,09,La Mitis,01,Bas-Saint-Laurent
+87020,Gallichan,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+93042,Alma,V,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+90804,Obedjiwan,R,90,La Tuque,04,Mauricie
+05902,Rivière-Bonaventure,NO,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+87015,Roquemaure,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+88075,Trécesson,CT,88,Abitibi,08,Abitibi-Témiscamingue
+07908,Lac-Casault,NO,07,La Matapédia,01,Bas-Saint-Laurent
+07085,Sayabec,M,07,La Matapédia,01,Bas-Saint-Laurent
+09055,Saint-Octave-de-Métis,P,09,La Mitis,01,Bas-Saint-Laurent
+09060,Grand-Métis,M,09,La Mitis,01,Bas-Saint-Laurent
+93045,Saint-Nazaire,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+91035,Saint-Prime,M,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+09040,Padoue,M,09,La Mitis,01,Bas-Saint-Laurent
+87030,Sainte-Germaine-Boulé,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+07100,Saint-Noël,VL,07,La Matapédia,01,Bas-Saint-Laurent
+94255,Saint-Ambroise,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+09077,Mont-Joli,V,09,La Mitis,01,Bas-Saint-Laurent
+09085,Sainte-Flavie,P,09,La Mitis,01,Bas-Saint-Laurent
+88005,Champneuf,M,88,Abitibi,08,Abitibi-Témiscamingue
+07914,Lac-Matapédia,NO,07,La Matapédia,01,Bas-Saint-Laurent
+88802,Pikogan,R,88,Abitibi,08,Abitibi-Témiscamingue
+09065,Price,VL,09,La Mitis,01,Bas-Saint-Laurent
+94240,Saint-Honoré,V,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+09070,Saint-Joseph-de-Lepage,P,09,La Mitis,01,Bas-Saint-Laurent
+07070,Saint-Tharcisius,P,07,La Matapédia,01,Bas-Saint-Laurent
+94235,Saint-Fulgence,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+88035,Landrienne,CT,88,Abitibi,08,Abitibi-Témiscamingue
+07095,Saint-Moïse,P,07,La Matapédia,01,Bas-Saint-Laurent
+91802,Mashteuiatsh,R,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+09092,Sainte-Luce,M,09,La Mitis,01,Bas-Saint-Laurent
+93035,Saint-Gédéon,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+89045,Senneterre,P,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+86042,Rouyn-Noranda,V,86,Rouyn-Noranda,08,Abitibi-Témiscamingue
+88022,Barraute,M,88,Abitibi,08,Abitibi-Témiscamingue
+88085,Sainte-Gertrude-Manneville,M,88,Abitibi,08,Abitibi-Témiscamingue
+07080,Val-Brillant,M,07,La Matapédia,01,Bas-Saint-Laurent
+87010,Rapide-Danseur,M,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+94260,Saint-Charles-de-Bourget,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+94068,Saguenay,V,941,Saguenay,02,Saguenay–Lac-Saint-Jean
+09035,Sainte-Angèle-de-Mérici,M,09,La Mitis,01,Bas-Saint-Laurent
+07047,Amqui,V,07,La Matapédia,01,Bas-Saint-Laurent
+91025,Roberval,V,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+91030,Sainte-Hedwidge,M,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+09030,Saint-Donat,P,09,La Mitis,01,Bas-Saint-Laurent
+07090,Saint-Cléophas,P,07,La Matapédia,01,Bas-Saint-Laurent
+07065,Saint-Alexandre-des-Lacs,P,07,La Matapédia,01,Bas-Saint-Laurent
+09020,Sainte-Jeanne-d'Arc-de-la-Mitis,M,09,La Mitis,01,Bas-Saint-Laurent
+95025,Les Escoumins,M,95,La Haute-Côte-Nord,09,Côte-Nord
+10043,Rimouski,V,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+94265,Larouche,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+87005,Duparquet,V,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+88040,Saint-Marc-de-Figuery,P,88,Abitibi,08,Abitibi-Témiscamingue
+88050,Saint-Mathieu-d'Harricana,M,88,Abitibi,08,Abitibi-Témiscamingue
+10030,Saint-Anaclet-de-Lessard,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+89050,Belcourt,M,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+87902,Lac-Duparquet,NO,87,Abitibi-Ouest,08,Abitibi-Témiscamingue
+02028,Chandler,V,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine
+07040,Sainte-Irène,P,07,La Matapédia,01,Bas-Saint-Laurent
+02015,Grande-Rivière,V,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine
+09025,Saint-Gabriel-de-Rimouski,M,09,La Mitis,01,Bas-Saint-Laurent
+93012,Métabetchouan–Lac-à-la-Croix,V,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+09005,La Rédemption,P,09,La Mitis,01,Bas-Saint-Laurent
+06902,Rivière-Nouvelle,NO,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+02010,Sainte-Thérèse-de-Gaspé,M,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine
+91020,Chambord,M,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+88090,Preissac,M,88,Abitibi,08,Abitibi-Témiscamingue
+94230,Sainte-Rose-du-Nord,P,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+93022,Hébertville,M,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+07018,Causapscal,V,07,La Matapédia,01,Bas-Saint-Laurent
+07057,Lac-au-Saumon,M,07,La Matapédia,01,Bas-Saint-Laurent
+07912,Lac-Alfred,NO,07,La Matapédia,01,Bas-Saint-Laurent
+07030,Saint-Léon-le-Grand,P,07,La Matapédia,01,Bas-Saint-Laurent
+09015,Les Hauteurs,M,09,La Mitis,01,Bas-Saint-Laurent
+88030,La Corne,M,88,Abitibi,08,Abitibi-Témiscamingue
+88045,La Motte,M,88,Abitibi,08,Abitibi-Témiscamingue
+93005,Desbiens,V,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+10025,Saint-Marcellin,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+95018,Les Bergeronnes,M,95,La Haute-Côte-Nord,09,Côte-Nord
+09904,Lac-à-la-Croix,NO,09,La Mitis,01,Bas-Saint-Laurent
+91015,Saint-François-de-Sales,M,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+09010,Saint-Charles-Garnier,P,09,La Mitis,01,Bas-Saint-Laurent
+07035,Saint-Zénon-du-Lac-Humqui,P,07,La Matapédia,01,Bas-Saint-Laurent
+07025,Albertville,M,07,La Matapédia,01,Bas-Saint-Laurent
+91010,Saint-André-du-Lac-Saint-Jean,VL,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+10060,Saint-Valérien,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+07005,Sainte-Marguerite-Marie,M,07,La Matapédia,01,Bas-Saint-Laurent
+09902,Lac-des-Eaux-Mortes,NO,09,La Mitis,01,Bas-Saint-Laurent
+10070,Saint-Fabien,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+94225,Saint-Félix-d'Otis,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+95010,Sacré-Coeur,M,95,La Haute-Côte-Nord,09,Côte-Nord
+94928,Lac-Ministuk,NO,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+95802,Essipit,R,95,La Haute-Côte-Nord,09,Côte-Nord
+94215,Rivière-Éternité,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+89010,Rivière-Héva,M,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+10015,Saint-Narcisse-de-Rimouski,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+02047,Port-Daniel–Gascons,M,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine
+05077,Cascapédia–Saint-Jules,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+07010,Sainte-Florence,M,07,La Matapédia,01,Bas-Saint-Laurent
+07904,Rivière-Vaseuse,NO,07,La Matapédia,01,Bas-Saint-Laurent
+91005,Lac-Bouchette,M,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean
+10075,Saint-Eugène-de-Ladrière,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+07902,Routhierville,NO,07,La Matapédia,01,Bas-Saint-Laurent
+93908,Belle-Rivière,NO,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+10902,Lac-Huron,NO,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+05070,New Richmond,V,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+94210,L'Anse-Saint-Jean,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+89008,Val-d'Or,V,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+11055,Saint-Simon-de-Rimouski,M,11,Les Basques,01,Bas-Saint-Laurent
+05050,Saint-Elzéar,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+06005,Maria,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+94220,Ferland-et-Boilleau,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+05065,Saint-Alphonse,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+94205,Petit-Saguenay,M,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+06030,Pointe-à-la-Croix,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+06020,Nouvelle,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+05010,Shigawake,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+06013,Carleton-sur-Mer,V,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+89015,Malartic,V,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+11050,Saint-Mathieu-de-Rioux,M,11,Les Basques,01,Bas-Saint-Laurent
+10010,La Trinité-des-Monts,P,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+05015,Saint-Godefroi,CT,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+95005,Tadoussac,VL,95,La Haute-Côte-Nord,09,Côte-Nord
+05025,Hope,CT,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+06802,Gesgapegiag,R,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+05032,Paspébiac,V,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+06904,Ruisseau-Ferguson,NO,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+06025,Escuminac,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+11902,Lac-Boisbouscache,NO,11,Les Basques,01,Bas-Saint-Laurent
+05060,Caplan,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+93906,Lac-Achouakan,NO,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+11045,Notre-Dame-des-Neiges,M,11,Les Basques,01,Bas-Saint-Laurent
+15065,Baie-Sainte-Catherine,M,15,Charlevoix-Est,03,Capitale-Nationale
+05055,Saint-Siméon,P,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+07906,Rivière-Patapédia-Est,NO,07,La Matapédia,01,Bas-Saint-Laurent
+05045,Bonaventure,V,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+05020,Hope Town,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+11040,Trois-Pistoles,V,11,Les Basques,01,Bas-Saint-Laurent
+11025,Saint-Médard,M,11,Les Basques,01,Bas-Saint-Laurent
+11030,Sainte-Françoise,P,11,Les Basques,01,Bas-Saint-Laurent
+10005,Esprit-Saint,M,10,Rimouski-Neigette,01,Bas-Saint-Laurent
+15904,Sagard,NO,15,Charlevoix-Est,03,Capitale-Nationale
+06040,Saint-André-de-Restigouche,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+05040,New Carlisle,M,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine
+06804,Listuguj,R,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+94926,Lalemant,NO,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean
+12043,L'Isle-Verte,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+11035,Saint-Éloi,P,11,Les Basques,01,Bas-Saint-Laurent
+06055,Saint-François-d'Assise,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+89804,Lac-Simon,R,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+11010,Saint-Jean-de-Dieu,M,11,Les Basques,01,Bas-Saint-Laurent
+13062,Lac-des-Aigles,V,13,Témiscouata,01,Bas-Saint-Laurent
+12045,Notre-Dame-des-Sept-Douleurs,P,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+06035,Ristigouche-Sud-Est,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+06050,Saint-Alexis-de-Matapédia,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+06045,Matapédia,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+12035,Saint-Paul-de-la-Croix,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+13055,Biencourt,M,13,Témiscouata,01,Bas-Saint-Laurent
+11015,Sainte-Rita,M,11,Les Basques,01,Bas-Saint-Laurent
+16902,Lac-Pikauba,NO,16,Charlevoix,03,Capitale-Nationale
+93904,Lac-Moncouche,NO,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+12057,Cacouna,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+15902,Mont-Élie,NO,15,Charlevoix-Est,03,Capitale-Nationale
+93902,Mont-Apica,NO,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean
+89902,Matchi-Manitou,NO,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+15058,Saint-Siméon,M,15,Charlevoix-Est,03,Capitale-Nationale
+11005,Saint-Clément,P,11,Les Basques,01,Bas-Saint-Laurent
+06060,L'Ascension-de-Patapédia,M,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine
+12065,Saint-Arsène,P,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+13065,Saint-Michel-du-Squatec,M,13,Témiscouata,01,Bas-Saint-Laurent
+12030,Saint-Épiphane,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+12005,Saint-Cyprien,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+21904,Lac-Jacques-Cartier,NO,21,La Côte-de-Beaupré,03,Capitale-Nationale
+90802,Wemotaci,R,90,La Tuque,04,Mauricie
+12804,Cacouna,R,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+12025,Saint-François-Xavier-de-Viger,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+85100,Nédélec,CT,85,Témiscamingue,08,Abitibi-Témiscamingue
+14040,Saint-André-de-Kamouraska,M,14,Kamouraska,01,Bas-Saint-Laurent
+12072,Rivière-du-Loup,V,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+13050,Lejeune,M,13,Témiscouata,01,Bas-Saint-Laurent
+15013,La Malbaie,V,15,Charlevoix-Est,03,Capitale-Nationale
+12020,Saint-Modeste,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+85105,Rémigny,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+89912,Lac-Granet,NO,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+12010,Saint-Hubert-de-Rivière-du-Loup,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+13075,Saint-Pierre-de-Lamy,M,13,Témiscouata,01,Bas-Saint-Laurent
+89910,Réservoir-Dozois,NO,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+89908,Lac-Metei,NO,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+83912,Dépôt-Échouani,NO,83,La Vallée-de-la-Gatineau,07,Outaouais
+13040,Saint-Juste-du-Lac,M,13,Témiscouata,01,Bas-Saint-Laurent
+90027,Lac-Édouard,M,90,La Tuque,04,Mauricie
+13005,Dégelis,V,13,Témiscouata,01,Bas-Saint-Laurent
+13045,Auclair,M,13,Témiscouata,01,Bas-Saint-Laurent
+12015,Saint-Antonin,V,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+13073,Témiscouata-sur-le-Lac,V,13,Témiscouata,01,Bas-Saint-Laurent
+83908,Lac-Moselle,NO,83,La Vallée-de-la-Gatineau,07,Outaouais
+12080,Notre-Dame-du-Portage,M,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+01042,Grosse-Île,M,01,Communauté maritime des Îles-de-la-Madeleine,11,Gaspésie–Îles-de-la-Madeleine
+22902,Lac-Croche,NO,22,La Jacques-Cartier,03,Capitale-Nationale
+15030,Saint-Aimé-des-Lacs,M,15,Charlevoix-Est,03,Capitale-Nationale
+13090,Saint-Honoré-de-Témiscouata,M,13,Témiscouata,01,Bas-Saint-Laurent
+79912,Lac-De La Bidière,NO,79,Antoine-Labelle,15,Laurentides
+79910,Lac-Bazinet,NO,79,Antoine-Labelle,15,Laurentides
+62918,Baie-Obaoca,NO,62,Matawinie,14,Lanaudière
+15035,Clermont,V,15,Charlevoix-Est,03,Capitale-Nationale
+90801,Coucoucache,R,90,La Tuque,04,Mauricie
+16055,Saint-Urbain,P,16,Charlevoix,03,Capitale-Nationale
+85095,Guérin,CT,85,Témiscamingue,08,Abitibi-Témiscamingue
+83906,Lac-Lenôtre,NO,83,La Vallée-de-la-Gatineau,07,Outaouais
+14035,Saint-Alexandre-de-Kamouraska,M,14,Kamouraska,01,Bas-Saint-Laurent
+13080,Saint-Louis-du-Ha! Ha!,P,13,Témiscouata,01,Bas-Saint-Laurent
+15025,Notre-Dame-des-Monts,M,15,Charlevoix-Est,03,Capitale-Nationale
+14902,Picard,NO,14,Kamouraska,01,Bas-Saint-Laurent
+12802,Kataskomiq,R,12,Rivière-du-Loup,01,Bas-Saint-Laurent
+85075,Moffet,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+85070,Laforce,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+85907,Les Lacs-du-Témiscamingue,NO,85,Témiscamingue,08,Abitibi-Témiscamingue
+90017,La Bostonnais,M,90,La Tuque,04,Mauricie
+85090,Notre-Dame-du-Nord,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+13085,Saint-Elzéar-de-Témiscouata,M,13,Témiscouata,01,Bas-Saint-Laurent
+14030,Saint-Joseph-de-Kamouraska,P,14,Kamouraska,01,Bas-Saint-Laurent
+85052,Laverlochère-Angliers,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+85806,Timiskaming,R,85,Témiscamingue,08,Abitibi-Témiscamingue
+16050,Saint-Hilarion,P,16,Charlevoix,03,Capitale-Nationale
+79906,Lac-Wagwabika,NO,79,Antoine-Labelle,15,Laurentides
+14025,Sainte-Hélène-de-Kamouraska,M,14,Kamouraska,01,Bas-Saint-Laurent
+14045,Saint-Germain-de-Kamouraska,M,14,Kamouraska,01,Bas-Saint-Laurent
+13095,Pohénégamook,V,13,Témiscouata,01,Bas-Saint-Laurent
+15005,Saint-Irénée,M,15,Charlevoix-Est,03,Capitale-Nationale
+83902,Lac-Pythonga,NO,83,La Vallée-de-la-Gatineau,07,Outaouais
+13030,Saint-Eusèbe,P,13,Témiscouata,01,Bas-Saint-Laurent
+85085,Saint-Eugène-de-Guigues,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+14050,Kamouraska,M,14,Kamouraska,01,Bas-Saint-Laurent
+85804,Winneway,EI,85,Témiscamingue,08,Abitibi-Témiscamingue
+01023,Les Îles-de-la-Madeleine,M,01,Communauté maritime des Îles-de-la-Madeleine,11,Gaspésie–Îles-de-la-Madeleine
+62919,Lac-Cabasta,NO,62,Matawinie,14,Lanaudière
+14018,Saint-Pascal,V,14,Kamouraska,01,Bas-Saint-Laurent
+16048,Les Éboulements,M,16,Charlevoix,03,Capitale-Nationale
+89802,Kitcisakik,EI,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue
+85045,Saint-Bruno-de-Guigues,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+14010,Saint-Bruno-de-Kamouraska,M,14,Kamouraska,01,Bas-Saint-Laurent
+14055,Saint-Denis-De La Bouteillerie,M,14,Kamouraska,01,Bas-Saint-Laurent
+16013,Baie-Saint-Paul,V,16,Charlevoix,03,Capitale-Nationale
+13015,Packington,P,13,Témiscouata,01,Bas-Saint-Laurent
+13100,Saint-Athanase,M,13,Témiscouata,01,Bas-Saint-Laurent
+13025,Rivière-Bleue,M,13,Témiscouata,01,Bas-Saint-Laurent
+79914,Lac-Oscar,NO,79,Antoine-Labelle,15,Laurentides
+79904,Lac-Akonapwehikan,NO,79,Antoine-Labelle,15,Laurentides
+14060,Saint-Philippe-de-Néri,P,14,Kamouraska,01,Bas-Saint-Laurent
+85060,Latulipe-et-Gaboury,CU,85,Témiscamingue,08,Abitibi-Témiscamingue
+14065,Rivière-Ouelle,M,14,Kamouraska,01,Bas-Saint-Laurent
+35904,Lac-Normand,NO,35,Mékinac,04,Mauricie
+13010,Saint-Jean-de-la-Lande,M,13,Témiscouata,01,Bas-Saint-Laurent
+13020,Saint-Marc-du-Lac-Long,P,13,Témiscouata,01,Bas-Saint-Laurent
+14005,Mont-Carmel,M,14,Kamouraska,01,Bas-Saint-Laurent
+85055,Fugèreville,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+62920,Baie-Atibenne,NO,62,Matawinie,14,Lanaudière
+85065,Belleterre,V,85,Témiscamingue,08,Abitibi-Témiscamingue
+14070,Saint-Pacôme,M,14,Kamouraska,01,Bas-Saint-Laurent
+16023,L'Isle-aux-Coudres,M,16,Charlevoix,03,Capitale-Nationale
+85037,Lorrainville,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+14082,La Pocatière,V,14,Kamouraska,01,Bas-Saint-Laurent
+14075,Saint-Gabriel-Lalemant,M,14,Kamouraska,01,Bas-Saint-Laurent
+85030,Duhamel-Ouest,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+34902,Lac-Blanc,NO,34,Portneuf,03,Capitale-Nationale
+16005,Petite-Rivière-Saint-François,M,16,Charlevoix,03,Capitale-Nationale
+35906,Rivière-de-la-Savane,NO,35,Mékinac,04,Mauricie
+34906,Lac-Lapeyrère,NO,34,Portneuf,03,Capitale-Nationale
+34904,Linton,NO,34,Portneuf,03,Capitale-Nationale
+85020,Béarn,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+85025,Ville-Marie,V,85,Témiscamingue,08,Abitibi-Témiscamingue
+17065,Saint-Roch-des-Aulnaies,M,17,L'Islet,12,Chaudière-Appalaches
+83904,Cascades-Malignes,NO,83,La Vallée-de-la-Gatineau,07,Outaouais
+17060,Sainte-Louise,P,17,L'Islet,12,Chaudière-Appalaches
+79922,Lac-Douaire,NO,79,Antoine-Labelle,15,Laurentides
+22035,Stoneham-et-Tewkesbury,CU,22,La Jacques-Cartier,03,Capitale-Nationale
+21005,Saint-Tite-des-Caps,M,21,La Côte-de-Beaupré,03,Capitale-Nationale
+17040,Saint-Damase-de-L'Islet,M,17,L'Islet,12,Chaudière-Appalaches
+84902,Lac-Nilgaut,NO,84,Pontiac,07,Outaouais
+14904,Petit-Lac-Sainte-Anne,NO,14,Kamouraska,01,Bas-Saint-Laurent
+62906,Baie-de-la-Bouteille,NO,62,Matawinie,14,Lanaudière
+85015,Saint-Édouard-de-Fabre,P,85,Témiscamingue,08,Abitibi-Témiscamingue
+17070,Saint-Jean-Port-Joli,M,17,L'Islet,12,Chaudière-Appalaches
+83804,Lac-Rapide,R,83,La Vallée-de-la-Gatineau,07,Outaouais
+62922,Lac-du-Taureau,NO,62,Matawinie,14,Lanaudière
+21902,Sault-au-Cochon,NO,21,La Côte-de-Beaupré,03,Capitale-Nationale
+17055,Saint-Aubert,M,17,L'Islet,12,Chaudière-Appalaches
+79902,Lac-de-la-Pomme,NO,79,Antoine-Labelle,15,Laurentides
+17035,Tourville,M,17,L'Islet,12,Chaudière-Appalaches
+62802,Manawan,R,62,Matawinie,14,Lanaudière
+34135,Rivière-à-Pierre,M,34,Portneuf,03,Capitale-Nationale
+21010,Saint-Ferréol-les-Neiges,M,21,La Côte-de-Beaupré,03,Capitale-Nationale
+79926,Lac-Marguerite,NO,79,Antoine-Labelle,15,Laurentides
+17030,Sainte-Perpétue,M,17,L'Islet,12,Chaudière-Appalaches
+22025,Saint-Gabriel-de-Valcartier,M,22,La Jacques-Cartier,03,Capitale-Nationale
+35902,Lac-Masketsi,NO,35,Mékinac,04,Mauricie
+35055,Trois-Rives,M,35,Mékinac,04,Mauricie
+34128,Saint-Raymond,V,34,Portneuf,03,Capitale-Nationale
+18070,Saint-Antoine-de-l'Isle-aux-Grues,P,18,Montmagny,12,Chaudière-Appalaches
+17078,L'Islet,M,17,L'Islet,12,Chaudière-Appalaches
+62904,Lac-Devenyns,NO,62,Matawinie,14,Lanaudière
+17005,Saint-Omer,M,17,L'Islet,12,Chaudière-Appalaches
+85905,Laniel,NO,85,Témiscamingue,08,Abitibi-Témiscamingue
+21020,Saint-Joachim,P,21,La Côte-de-Beaupré,03,Capitale-Nationale
+17045,Saint-Cyrille-de-Lessard,P,17,L'Islet,12,Chaudière-Appalaches
+21030,Sainte-Anne-de-Beaupré,V,21,La Côte-de-Beaupré,03,Capitale-Nationale
+21035,Château-Richer,V,21,La Côte-de-Beaupré,03,Capitale-Nationale
+21025,Beaupré,V,21,La Côte-de-Beaupré,03,Capitale-Nationale
+22045,Sainte-Brigitte-de-Laval,V,22,La Jacques-Cartier,03,Capitale-Nationale
+62908,Lac-Matawin,NO,62,Matawinie,14,Lanaudière
+18045,Cap-Saint-Ignace,M,18,Montmagny,12,Chaudière-Appalaches
+79097,Ferme-Neuve,M,79,Antoine-Labelle,15,Laurentides
+21015,Saint-Louis-de-Gonzague-du-Cap-Tourmente,P,21,La Côte-de-Beaupré,03,Capitale-Nationale
+35010,Lac-aux-Sables,P,35,Mékinac,04,Mauricie
+17010,Saint-Pamphile,V,17,L'Islet,12,Chaudière-Appalaches
+22040,Lac-Beauport,M,22,La Jacques-Cartier,03,Capitale-Nationale
+20005,Saint-François-de-L'Île-d'Orléans,M,20,L'Île-d'Orléans,03,Capitale-Nationale
+17025,Sainte-Félicité,M,17,L'Islet,12,Chaudière-Appalaches
+79115,Sainte-Anne-du-Lac,M,79,Antoine-Labelle,15,Laurentides
+20010,Sainte-Famille-de-l'Île-d'Orléans,M,20,L'Île-d'Orléans,03,Capitale-Nationale
+35005,Notre-Dame-de-Montauban,M,35,Mékinac,04,Mauricie
+18050,Montmagny,V,18,Montmagny,12,Chaudière-Appalaches
+85005,Témiscaming,V,85,Témiscamingue,08,Abitibi-Témiscamingue
+21040,L'Ange-Gardien,M,21,La Côte-de-Beaupré,03,Capitale-Nationale
+79916,Lac-de-la-Maison-de-Pierre,NO,79,Antoine-Labelle,15,Laurentides
+85803,Hunter's Point,EI,85,Témiscamingue,08,Abitibi-Témiscamingue
+34115,Saint-Léonard-de-Portneuf,M,34,Portneuf,03,Capitale-Nationale
+17020,Saint-Marcel,M,17,L'Islet,12,Chaudière-Appalaches
+22020,Shannon,M,22,La Jacques-Cartier,03,Capitale-Nationale
+20015,Saint-Jean-de-l'Île-d'Orléans,M,20,L'Île-d'Orléans,03,Capitale-Nationale
+23027,Québec,V,23,Québec,03,Capitale-Nationale
+22030,Lac-Delage,V,22,La Jacques-Cartier,03,Capitale-Nationale
+22015,Lac-Saint-Joseph,V,22,La Jacques-Cartier,03,Capitale-Nationale
+18025,Sainte-Apolline-de-Patton,P,18,Montmagny,12,Chaudière-Appalaches
+18065,Berthier-sur-Mer,M,18,Montmagny,12,Chaudière-Appalaches
+18055,Saint-Pierre-de-la-Rivière-du-Sud,P,18,Montmagny,12,Chaudière-Appalaches
+22005,Sainte-Catherine-de-la-Jacques-Cartier,V,22,La Jacques-Cartier,03,Capitale-Nationale
+21045,Boischatel,M,21,La Côte-de-Beaupré,03,Capitale-Nationale
+18040,Notre-Dame-du-Rosaire,M,18,Montmagny,12,Chaudière-Appalaches
+35050,Sainte-Thècle,M,35,Mékinac,04,Mauricie
+34048,Portneuf,V,34,Portneuf,03,Capitale-Nationale
+20025,Saint-Pierre-de-l'Île-d'Orléans,M,20,L'Île-d'Orléans,03,Capitale-Nationale
+35908,Lac-Boulé,NO,35,Mékinac,04,Mauricie
+17015,Saint-Adalbert,M,17,L'Islet,12,Chaudière-Appalaches
+18060,Saint-François-de-la-Rivière-du-Sud,M,18,Montmagny,12,Chaudière-Appalaches
+36033,Shawinigan,V,36,Shawinigan,04,Mauricie
+20020,Saint-Laurent-de-l'Île-d'Orléans,M,20,L'Île-d'Orléans,03,Capitale-Nationale
+19117,Saint-Vallier,M,19,Bellechasse,12,Chaudière-Appalaches
+22010,Fossambault-sur-le-Lac,V,22,La Jacques-Cartier,03,Capitale-Nationale
+79110,Mont-Saint-Michel,M,79,Antoine-Labelle,15,Laurentides
+62902,Lac-Minaki,NO,62,Matawinie,14,Lanaudière
+34105,Sainte-Christine-d'Auvergne,M,34,Portneuf,03,Capitale-Nationale
+62910,Lac-Legendre,NO,62,Matawinie,14,Lanaudière
+35045,Saint-Roch-de-Mékinac,P,35,Mékinac,04,Mauricie
+19110,Saint-Michel-de-Bellechasse,M,19,Bellechasse,12,Chaudière-Appalaches
+34120,Lac-Sergent,V,34,Portneuf,03,Capitale-Nationale
+51065,Saint-Alexis-des-Monts,P,51,Maskinongé,04,Mauricie
+79105,Lac-Saint-Paul,M,79,Antoine-Labelle,15,Laurentides
+23802,Wendake,R,23,Québec,03,Capitale-Nationale
+34097,Saint-Alban,M,34,Portneuf,03,Capitale-Nationale
+20030,Sainte-Pétronille,VL,20,L'Île-d'Orléans,03,Capitale-Nationale
+19090,La Durantaye,P,19,Bellechasse,12,Chaudière-Appalaches
+18035,Sainte-Euphémie-sur-Rivière-du-Sud,M,18,Montmagny,12,Chaudière-Appalaches
+19105,Beaumont,M,19,Bellechasse,12,Chaudière-Appalaches
+34090,Saint-Ubalde,M,34,Portneuf,03,Capitale-Nationale
+79920,Baie-des-Chaloupes,NO,79,Antoine-Labelle,15,Laurentides
+19082,Saint-Raphaël,M,19,Bellechasse,12,Chaudière-Appalaches
+34017,Pont-Rouge,V,34,Portneuf,03,Capitale-Nationale
+83095,Grand-Remous,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+79065,Chute-Saint-Philippe,M,79,Antoine-Labelle,15,Laurentides
+34038,Saint-Basile,V,34,Portneuf,03,Capitale-Nationale
+19037,Armagh,M,19,Bellechasse,12,Chaudière-Appalaches
+19097,Saint-Charles-de-Bellechasse,M,19,Bellechasse,12,Chaudière-Appalaches
+25213,Lévis,V,251,Lévis,12,Chaudière-Appalaches
+35040,Grandes-Piles,VL,35,Mékinac,04,Mauricie
+85010,Kipawa,M,85,Témiscamingue,08,Abitibi-Témiscamingue
+23057,L'Ancienne-Lorette,V,23,Québec,03,Capitale-Nationale
+35015,Saint-Adelphe,P,35,Mékinac,04,Mauricie
+18030,Saint-Paul-de-Montminy,M,18,Montmagny,12,Chaudière-Appalaches
+23015,Notre-Dame-des-Anges,P,23,Québec,03,Capitale-Nationale
+18020,Sainte-Lucie-de-Beauregard,M,18,Montmagny,12,Chaudière-Appalaches
+23072,Saint-Augustin-de-Desmaures,V,23,Québec,03,Capitale-Nationale
+62085,Saint-Michel-des-Saints,M,62,Matawinie,14,Lanaudière
+35027,Saint-Tite,V,35,Mékinac,04,Mauricie
+85802,Kebaowek,R,85,Témiscamingue,08,Abitibi-Témiscamingue
+19075,Saint-Gervais,M,19,Bellechasse,12,Chaudière-Appalaches
+34085,Saint-Thuribe,P,34,Portneuf,03,Capitale-Nationale
+34060,Saint-Gilbert,P,34,Portneuf,03,Capitale-Nationale
+34007,Neuville,V,34,Portneuf,03,Capitale-Nationale
+19045,Saint-Nérée-de-Bellechasse,M,19,Bellechasse,12,Chaudière-Appalaches
+18015,Saint-Fabien-de-Panet,P,18,Montmagny,12,Chaudière-Appalaches
+79037,Rivière-Rouge,V,79,Antoine-Labelle,15,Laurentides
+83088,Montcerf-Lytton,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+18010,Lac-Frontière,M,18,Montmagny,12,Chaudière-Appalaches
+51070,Saint-Mathieu-du-Parc,M,51,Maskinongé,04,Mauricie
+19068,Saint-Henri,M,19,Bellechasse,12,Chaudière-Appalaches
+34030,Cap-Santé,V,34,Portneuf,03,Capitale-Nationale
+19005,Saint-Philémon,P,19,Bellechasse,12,Chaudière-Appalaches
+35035,Hérouxville,P,35,Mékinac,04,Mauricie
+34058,Deschambault-Grondines,M,34,Portneuf,03,Capitale-Nationale
+37205,Sainte-Anne-de-la-Pérade,M,372,Les Chenaux,04,Mauricie
+34025,Donnacona,V,34,Portneuf,03,Capitale-Nationale
+34078,Saint-Casimir,M,34,Portneuf,03,Capitale-Nationale
+79088,Mont-Laurier,V,79,Antoine-Labelle,15,Laurentides
+35020,Saint-Séverin,P,35,Mékinac,04,Mauricie
+34065,Saint-Marc-des-Carrières,V,34,Portneuf,03,Capitale-Nationale
+37250,Saint-Prosper-de-Champlain,M,372,Les Chenaux,04,Mauricie
+19050,Saint-Lazare-de-Bellechasse,M,19,Bellechasse,12,Chaudière-Appalaches
+62912,Saint-Guillaume-Nord,NO,62,Matawinie,14,Lanaudière
+19030,Saint-Damien-de-Buckland,P,19,Bellechasse,12,Chaudière-Appalaches
+37245,Saint-Stanislas,M,372,Les Chenaux,04,Mauricie
+33095,Saint-Antoine-de-Tilly,M,33,Lotbinière,12,Chaudière-Appalaches
+19070,Honfleur,M,19,Bellechasse,12,Chaudière-Appalaches
+19062,Saint-Anselme,M,19,Bellechasse,12,Chaudière-Appalaches
+62080,Saint-Zénon,M,62,Matawinie,14,Lanaudière
+19010,Notre-Dame-Auxiliatrice-de-Buckland,P,19,Bellechasse,12,Chaudière-Appalaches
+28075,Saint-Magloire,M,28,Les Etchemins,12,Chaudière-Appalaches
+79050,L'Ascension,M,79,Antoine-Labelle,15,Laurentides
+33102,Sainte-Croix,M,33,Lotbinière,12,Chaudière-Appalaches
+33115,Lotbinière,M,33,Lotbinière,12,Chaudière-Appalaches
+62916,Lac-Santé,NO,62,Matawinie,14,Lanaudière
+26070,Saint-Lambert-de-Lauzon,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+33090,Saint-Apollinaire,M,33,Lotbinière,12,Chaudière-Appalaches
+26063,Saint-Isidore,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+37240,Saint-Narcisse,P,372,Les Chenaux,04,Mauricie
+18005,Saint-Just-de-Bretenières,M,18,Montmagny,12,Chaudière-Appalaches
+79060,Lac-Saguay,VL,79,Antoine-Labelle,15,Laurentides
+19055,Sainte-Claire,M,19,Bellechasse,12,Chaudière-Appalaches
+33085,Notre-Dame-du-Sacré-Coeur-d'Issoudun,P,33,Lotbinière,12,Chaudière-Appalaches
+79078,Lac-des-Écorces,M,79,Antoine-Labelle,15,Laurentides
+33035,Saint-Gilles,M,33,Lotbinière,12,Chaudière-Appalaches
+33080,Saint-Édouard-de-Lotbinière,P,33,Lotbinière,12,Chaudière-Appalaches
+28060,Saint-Luc-de-Bellechasse,M,28,Les Etchemins,12,Chaudière-Appalaches
+19025,Saint-Malachie,P,19,Bellechasse,12,Chaudière-Appalaches
+37215,Sainte-Geneviève-de-Batiscan,P,372,Les Chenaux,04,Mauricie
+19015,Saint-Nazaire-de-Dorchester,P,19,Bellechasse,12,Chaudière-Appalaches
+33045,Saint-Agapit,M,33,Lotbinière,12,Chaudière-Appalaches
+51075,Saint-Élie-de-Caxton,M,51,Maskinongé,04,Mauricie
+51085,Saint-Boniface,M,51,Maskinongé,04,Mauricie
+26040,Sainte-Hénédine,P,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+52095,Mandeville,M,52,D'Autray,14,Lanaudière
+37235,Notre-Dame-du-Mont-Carmel,P,372,Les Chenaux,04,Mauricie
+33123,Leclercville,M,33,Lotbinière,12,Chaudière-Appalaches
+83085,Bois-Franc,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+83090,Aumond,CT,83,La Vallée-de-la-Gatineau,07,Outaouais
+37210,Batiscan,M,372,Les Chenaux,04,Mauricie
+33052,Saint-Flavien,M,33,Lotbinière,12,Chaudière-Appalaches
+28070,Saint-Camille-de-Lellis,P,28,Les Etchemins,12,Chaudière-Appalaches
+38070,Deschaillons-sur-Saint-Laurent,M,38,Bécancour,17,Centre-du-Québec
+33065,Saint-Janvier-de-Joly,M,33,Lotbinière,12,Chaudière-Appalaches
+26035,Sainte-Marguerite,P,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+26048,Scott,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+33060,Laurier-Station,VL,33,Lotbinière,12,Chaudière-Appalaches
+62914,Lac-des-Dix-Milles,NO,62,Matawinie,14,Lanaudière
+26055,Saint-Bernard,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+19020,Saint-Léon-de-Standon,P,19,Bellechasse,12,Chaudière-Appalaches
+33030,Saint-Narcisse-de-Beaurivage,P,33,Lotbinière,12,Chaudière-Appalaches
+28065,Sainte-Sabine,P,28,Les Etchemins,12,Chaudière-Appalaches
+38055,Parisville,P,38,Bécancour,17,Centre-du-Québec
+37225,Saint-Luc-de-Vincennes,M,372,Les Chenaux,04,Mauricie
+37230,Saint-Maurice,P,372,Les Chenaux,04,Mauricie
+38047,Fortierville,M,38,Bécancour,17,Centre-du-Québec
+38065,Saint-Pierre-les-Becquets,M,38,Bécancour,17,Centre-du-Québec
+26005,Frampton,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+79025,Kiamika,M,79,Antoine-Labelle,15,Laurentides
+33040,Dosquet,M,33,Lotbinière,12,Chaudière-Appalaches
+26030,Sainte-Marie,V,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+38035,Sainte-Françoise,M,38,Bécancour,17,Centre-du-Québec
+51090,Saint-Étienne-des-Grès,P,51,Maskinongé,04,Mauricie
+79047,La Macaza,M,79,Antoine-Labelle,15,Laurentides
+38060,Sainte-Cécile-de-Lévrard,P,38,Bécancour,17,Centre-du-Québec
+33070,Val-Alain,M,33,Lotbinière,12,Chaudière-Appalaches
+51060,Saint-Paulin,M,51,Maskinongé,04,Mauricie
+62075,Saint-Damien,P,62,Matawinie,14,Lanaudière
+37220,Champlain,M,372,Les Chenaux,04,Mauricie
+51080,Charette,M,51,Maskinongé,04,Mauricie
+28053,Lac-Etchemin,M,28,Les Etchemins,12,Chaudière-Appalaches
+26010,Saints-Anges,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+79030,Nominingue,M,79,Antoine-Labelle,15,Laurentides
+38040,Sainte-Sophie-de-Lévrard,P,38,Bécancour,17,Centre-du-Québec
+28045,Sainte-Justine,M,28,Les Etchemins,12,Chaudière-Appalaches
+37067,Trois-Rivières,V,371,Trois-Rivières,04,Mauricie
+83075,Egan-Sud,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+26022,Saint-Elzéar,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+33025,Saint-Patrice-de-Beaurivage,M,33,Lotbinière,12,Chaudière-Appalaches
+83802,Kitigan Zibi,R,83,La Vallée-de-la-Gatineau,07,Outaouais
+78095,Lac-Supérieur,M,78,Les Laurentides,15,Laurentides
+51025,Saint-Barnabé,P,51,Maskinongé,04,Mauricie
+32065,Lyster,M,32,L'Érable,17,Centre-du-Québec
+32085,Villeroy,M,32,L'Érable,17,Centre-du-Québec
+62060,Saint-Donat,M,62,Matawinie,14,Lanaudière
+33017,Sainte-Agathe-de-Lotbinière,M,33,Lotbinière,12,Chaudière-Appalaches
+38010,Bécancour,V,38,Bécancour,17,Centre-du-Québec
+52090,Saint-Didace,P,52,D'Autray,14,Lanaudière
+79022,Saint-Aimé-du-Lac-des-Îles,M,79,Antoine-Labelle,15,Laurentides
+83070,Déléage,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+79010,Notre-Dame-de-Pontmain,M,79,Antoine-Labelle,15,Laurentides
+38028,Manseau,M,38,Bécancour,17,Centre-du-Québec
+33007,Saint-Sylvestre,M,33,Lotbinière,12,Chaudière-Appalaches
+27035,Saint-Odilon-de-Cranbourne,M,27,Robert-Cliche,12,Chaudière-Appalaches
+62070,Sainte-Émélie-de-l'Énergie,M,62,Matawinie,14,Lanaudière
+28040,Saint-Cyprien,P,28,Les Etchemins,12,Chaudière-Appalaches
+26015,Vallée-Jonction,M,26,La Nouvelle-Beauce,12,Chaudière-Appalaches
+51055,Sainte-Angèle-de-Prémont,M,51,Maskinongé,04,Mauricie
+51030,Saint-Sévère,P,51,Maskinongé,04,Mauricie
+83065,Maniwaki,V,83,La Vallée-de-la-Gatineau,07,Outaouais
+27043,Saint-Joseph-de-Beauce,V,27,Robert-Cliche,12,Chaudière-Appalaches
+38015,Sainte-Marie-de-Blandford,M,38,Bécancour,17,Centre-du-Québec
+51035,Saint-Léon-le-Grand,P,51,Maskinongé,04,Mauricie
+51040,Sainte-Ursule,M,51,Maskinongé,04,Mauricie
+32080,Notre-Dame-de-Lourdes,P,32,L'Érable,17,Centre-du-Québec
+51050,Saint-Édouard-de-Maskinongé,M,51,Maskinongé,04,Mauricie
+32072,Laurierville,M,32,L'Érable,17,Centre-du-Québec
+27070,Saint-Séverin,P,27,Robert-Cliche,12,Chaudière-Appalaches
+79924,Lac-Ernest,NO,79,Antoine-Labelle,15,Laurentides
+51020,Yamachiche,M,51,Maskinongé,04,Mauricie
+28030,Sainte-Rose-de-Watford,M,28,Les Etchemins,12,Chaudière-Appalaches
+84100,Rapides-des-Joachims,M,84,Pontiac,07,Outaouais
+27065,Saint-Frédéric,P,27,Robert-Cliche,12,Chaudière-Appalaches
+79015,Lac-du-Cerf,M,79,Antoine-Labelle,15,Laurentides
+38020,Lemieux,M,38,Bécancour,17,Centre-du-Québec
+27050,Saint-Joseph-des-Érables,M,27,Robert-Cliche,12,Chaudière-Appalaches
+28025,Saint-Benjamin,M,28,Les Etchemins,12,Chaudière-Appalaches
+62055,Notre-Dame-de-la-Merci,M,62,Matawinie,14,Lanaudière
+31140,Saint-Jacques-de-Leeds,M,31,Les Appalaches,12,Chaudière-Appalaches
+32058,Inverness,M,32,L'Érable,17,Centre-du-Québec
+62065,Saint-Côme,M,62,Matawinie,14,Lanaudière
+52085,Saint-Gabriel-de-Brandon,M,52,D'Autray,14,Lanaudière
+52080,Saint-Gabriel,V,52,D'Autray,14,Lanaudière
+38802,Wôlinak,R,38,Bécancour,17,Centre-du-Québec
+28035,Saint-Louis-de-Gonzague,M,28,Les Etchemins,12,Chaudière-Appalaches
+39170,Saint-Louis-de-Blandford,M,39,Arthabaska,17,Centre-du-Québec
+27028,Beauceville,V,27,Robert-Cliche,12,Chaudière-Appalaches
+32043,Plessisville,V,32,L'Érable,17,Centre-du-Québec
+83040,Cayamant,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+78120,Labelle,M,78,Les Laurentides,15,Laurentides
+78102,Mont-Tremblant,V,78,Les Laurentides,15,Laurentides
+78130,La Minerve,M,78,Les Laurentides,15,Laurentides
+51045,Saint-Justin,M,51,Maskinongé,04,Mauricie
+31135,Saint-Pierre-de-Broughton,M,31,Les Appalaches,12,Chaudière-Appalaches
+83055,Sainte-Thérèse-de-la-Gatineau,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+83060,Messines,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+62015,Saint-Jean-de-Matha,M,62,Matawinie,14,Lanaudière
+52055,Saint-Barthélemy,P,52,D'Autray,14,Lanaudière
+78100,Val-des-Lacs,M,78,Les Laurentides,15,Laurentides
+32033,Princeville,V,32,L'Érable,17,Centre-du-Québec
+84095,Sheenboro,M,84,Pontiac,07,Outaouais
+51015,Louiseville,V,51,Maskinongé,04,Mauricie
+31130,Sacré-Coeur-de-Jésus,P,31,Les Appalaches,12,Chaudière-Appalaches
+78127,Lac-Tremblant-Nord,M,78,Les Laurentides,15,Laurentides
+62020,Sainte-Béatrix,M,62,Matawinie,14,Lanaudière
+27060,Tring-Jonction,VL,27,Robert-Cliche,12,Chaudière-Appalaches
+38005,Saint-Sylvère,M,38,Bécancour,17,Centre-du-Québec
+83050,Bouchette,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+52062,Saint-Cuthbert,M,52,D'Autray,14,Lanaudière
+50072,Nicolet,V,50,Nicolet-Yamaska,17,Centre-du-Québec
+28020,Saint-Prosper,M,28,Les Etchemins,12,Chaudière-Appalaches
+27055,Saint-Jules,P,27,Robert-Cliche,12,Chaudière-Appalaches
+32050,Saint-Pierre-Baptiste,P,32,L'Érable,17,Centre-du-Québec
+52070,Saint-Norbert,P,52,D'Autray,14,Lanaudière
+29125,Saint-Simon-les-Mines,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+39165,Maddington Falls,M,39,Arthabaska,17,Centre-du-Québec
+50035,Saint-Célestin,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+31105,Kinnear's Mills,M,31,Les Appalaches,12,Chaudière-Appalaches
+51008,Maskinongé,M,51,Maskinongé,04,Mauricie
+52075,Saint-Cléophas-de-Brandon,M,52,D'Autray,14,Lanaudière
+62025,Saint-Alphonse-Rodriguez,M,62,Matawinie,14,Lanaudière
+78020,Sainte-Lucie-des-Laurentides,M,78,Les Laurentides,15,Laurentides
+62047,Chertsey,M,62,Matawinie,14,Lanaudière
+31122,East Broughton,M,31,Les Appalaches,12,Chaudière-Appalaches
+28015,Sainte-Aurélie,M,28,Les Etchemins,12,Chaudière-Appalaches
+62007,Saint-Félix-de-Valois,M,62,Matawinie,14,Lanaudière
+83045,Blue Sea,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+31100,Saint-Jean-de-Brébeuf,M,31,Les Appalaches,12,Chaudière-Appalaches
+79005,Notre-Dame-du-Laus,M,79,Antoine-Labelle,15,Laurentides
+39145,Saint-Rosaire,P,39,Arthabaska,17,Centre-du-Québec
+50030,Saint-Célestin,VL,50,Nicolet-Yamaska,17,Centre-du-Québec
+32023,Sainte-Sophie-d'Halifax,M,32,L'Érable,17,Centre-du-Québec
+50023,Saint-Wenceslas,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+78115,La Conception,M,78,Les Laurentides,15,Laurentides
+39152,Daveluyville,V,39,Arthabaska,17,Centre-du-Québec
+78015,Lantier,M,78,Les Laurentides,15,Laurentides
+80135,Duhamel,M,80,Papineau,07,Outaouais
+27008,Saint-Victor,M,27,Robert-Cliche,12,Chaudière-Appalaches
+29120,Notre-Dame-des-Pins,P,29,Beauce-Sartigan,12,Chaudière-Appalaches
+50065,Grand-Saint-Esprit,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+29073,Saint-Georges,V,29,Beauce-Sartigan,12,Chaudière-Appalaches
+31084,Thetford Mines,V,31,Les Appalaches,12,Chaudière-Appalaches
+61050,Sainte-Mélanie,M,61,Joliette,14,Lanaudière
+78802,Doncaster,R,78,Les Laurentides,15,Laurentides
+50013,Aston-Jonction,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+50057,Sainte-Monique,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+27015,Saint-Alfred,M,27,Robert-Cliche,12,Chaudière-Appalaches
+50100,Baie-du-Febvre,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+29065,Saint-Philibert,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+32013,Saint-Ferdinand,M,32,L'Érable,17,Centre-du-Québec
+28005,Saint-Zacharie,M,28,Les Etchemins,12,Chaudière-Appalaches
+62053,Entrelacs,M,62,Matawinie,14,Lanaudière
+31056,Adstock,M,31,Les Appalaches,12,Chaudière-Appalaches
+83032,Gracefield,V,83,La Vallée-de-la-Gatineau,07,Outaouais
+52030,Sainte-Élisabeth,M,52,D'Autray,14,Lanaudière
+31060,Sainte-Clotilde-de-Beauce,M,31,Les Appalaches,12,Chaudière-Appalaches
+50005,Sainte-Eulalie,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+52050,La Visitation-de-l'Île-Dupas,M,52,D'Autray,14,Lanaudière
+84070,Waltham,M,84,Pontiac,07,Outaouais
+52045,Saint-Ignace-de-Loyola,M,52,D'Autray,14,Lanaudière
+84065,Mansfield-et-Pontefract,M,84,Pontiac,07,Outaouais
+50042,Saint-Léonard-d'Aston,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+78032,Sainte-Agathe-des-Monts,V,78,Les Laurentides,15,Laurentides
+31095,Saint-Adrien-d'Irlande,M,31,Les Appalaches,12,Chaudière-Appalaches
+62030,Sainte-Marcelline-de-Kildare,M,62,Matawinie,14,Lanaudière
+50085,La Visitation-de-Yamaska,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+62037,Rawdon,M,62,Matawinie,14,Lanaudière
+50113,Pierreville,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+78047,Mont-Blanc,M,78,Les Laurentides,15,Laurentides
+39043,Saint-Norbert-d'Arthabaska,M,39,Arthabaska,17,Centre-du-Québec
+52040,Sainte-Geneviève-de-Berthier,M,52,D'Autray,14,Lanaudière
+29100,Saint-Benoît-Labre,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+78070,Amherst,CT,78,Les Laurentides,15,Laurentides
+31040,Irlande,M,31,Les Appalaches,12,Chaudière-Appalaches
+50050,Sainte-Perpétue,P,50,Nicolet-Yamaska,17,Centre-du-Québec
+39135,Saint-Valère,M,39,Arthabaska,17,Centre-du-Québec
+50128,Saint-François-du-Lac,M,50,Nicolet-Yamaska,17,Centre-du-Québec
+61040,Saint-Ambroise-de-Kildare,M,61,Joliette,14,Lanaudière
+29057,Saint-Côme–Linière,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+39062,Victoriaville,V,39,Arthabaska,17,Centre-du-Québec
+61045,Notre-Dame-de-Lourdes,M,61,Joliette,14,Lanaudière
+78075,Brébeuf,M,78,Les Laurentides,15,Laurentides
+77012,Sainte-Marguerite-du-Lac-Masson,V,77,Les Pays-d'en-Haut,15,Laurentides
+29112,Saint-Éphrem-de-Beauce,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+78042,Ivry-sur-le-Lac,M,78,Les Laurentides,15,Laurentides
+53065,Sainte-Anne-de-Sorel,M,53,Pierre-De Saurel,16,Montérégie
+50090,Saint-Zéphirin-de-Courval,P,50,Nicolet-Yamaska,17,Centre-du-Québec
+29095,Lac-Poulin,VL,29,Beauce-Sartigan,12,Chaudière-Appalaches
+80130,Lac-des-Plages,M,80,Papineau,07,Outaouais
+50095,Saint-Elphège,P,50,Nicolet-Yamaska,17,Centre-du-Québec
+39130,Saint-Samuel,M,39,Arthabaska,17,Centre-du-Québec
+49085,Sainte-Brigitte-des-Saults,P,49,Drummond,17,Centre-du-Québec
+52035,Berthierville,V,52,D'Autray,14,Lanaudière
+50802,Odanak,R,50,Nicolet-Yamaska,17,Centre-du-Québec
+84090,Chichester,CT,84,Pontiac,07,Outaouais
+78010,Val-David,VL,78,Les Laurentides,15,Laurentides
+53072,Yamaska,M,53,Pierre-De Saurel,16,Montérégie
+61035,Saint-Charles-Borromée,M,61,Joliette,14,Lanaudière
+77011,Estérel,V,77,Les Pays-d'en-Haut,15,Laurentides
+29050,Saint-René,P,29,Beauce-Sartigan,12,Chaudière-Appalaches
+39035,Sainte-Hélène-de-Chester,M,39,Arthabaska,17,Centre-du-Québec
+61027,Saint-Thomas,M,61,Joliette,14,Lanaudière
+39060,Saint-Christophe-d'Arthabaska,P,39,Arthabaska,17,Centre-du-Québec
+61030,Notre-Dame-des-Prairies,V,61,Joliette,14,Lanaudière
+31035,Saint-Julien,M,31,Les Appalaches,12,Chaudière-Appalaches
+63065,Saint-Liguori,M,63,Montcalm,14,Lanaudière
+78065,Huberdeau,M,78,Les Laurentides,15,Laurentides
+49080,Notre-Dame-du-Bon-Conseil,P,49,Drummond,17,Centre-du-Québec
+29005,Saint-Théophile,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+52017,Lanoraie,M,52,D'Autray,14,Lanaudière
+78060,Arundel,CT,78,Les Laurentides,15,Laurentides
+53052,Sorel-Tracy,V,53,Pierre-De Saurel,16,Montérégie
+53050,Saint-Joseph-de-Sorel,V,53,Pierre-De Saurel,16,Montérégie
+29045,Saint-Martin,P,29,Beauce-Sartigan,12,Chaudière-Appalaches
+39117,Sainte-Clotilde-de-Horton,M,39,Arthabaska,17,Centre-du-Québec
+61025,Joliette,V,61,Joliette,14,Lanaudière
+78005,Val-Morin,M,78,Les Laurentides,15,Laurentides
+53085,Saint-Gérard-Majella,P,53,Pierre-De Saurel,16,Montérégie
+31045,Saint-Joseph-de-Coleraine,M,31,Les Appalaches,12,Chaudière-Appalaches
+78055,Montcalm,M,78,Les Laurentides,15,Laurentides
+39085,Saint-Albert,M,39,Arthabaska,17,Centre-du-Québec
+29038,Saint-Honoré-de-Shenley,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+39030,Chesterville,M,39,Arthabaska,17,Centre-du-Québec
+61020,Saint-Pierre,VL,61,Joliette,14,Lanaudière
+53020,Saint-Robert,M,53,Pierre-De Saurel,16,Montérégie
+63060,Sainte-Julienne,M,63,Montcalm,14,Lanaudière
+49130,Saint-Pie-de-Guire,P,49,Drummond,17,Centre-du-Québec
+77022,Sainte-Adèle,V,77,Les Pays-d'en-Haut,15,Laurentides
+49058,Drummondville,V,49,Drummond,17,Centre-du-Québec
+63055,Saint-Calixte,M,63,Montcalm,14,Lanaudière
+39077,Warwick,V,39,Arthabaska,17,Centre-du-Québec
+83020,Lac-Sainte-Marie,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+83015,Kazabazua,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+84050,Alleyn-et-Cawood,M,84,Pontiac,07,Outaouais
+84055,Otter Lake,M,84,Pontiac,07,Outaouais
+31030,Saint-Fortunat,M,31,Les Appalaches,12,Chaudière-Appalaches
+78050,Barkmere,V,78,Les Laurentides,15,Laurentides
+77065,Saint-Adolphe-d'Howard,M,77,Les Pays-d'en-Haut,15,Laurentides
+29030,La Guadeloupe,VL,29,Beauce-Sartigan,12,Chaudière-Appalaches
+61005,Saint-Paul,M,61,Joliette,14,Lanaudière
+49125,Saint-Bonaventure,M,49,Drummond,17,Centre-du-Québec
+53025,Sainte-Victoire-de-Sorel,M,53,Pierre-De Saurel,16,Montérégie
+49075,Notre-Dame-du-Bon-Conseil,VL,49,Drummond,17,Centre-du-Québec
+63013,Saint-Jacques,M,63,Montcalm,14,Lanaudière
+61013,Crabtree,V,61,Joliette,14,Lanaudière
+29027,Courcelles–Saint-Évariste,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+49070,Saint-Cyrille-de-Wendover,M,49,Drummond,17,Centre-du-Québec
+75045,Saint-Hippolyte,M,75,La Rivière-du-Nord,15,Laurentides
+80145,Bowman,M,80,Papineau,07,Outaouais
+63023,Saint-Alexis,M,63,Montcalm,14,Lanaudière
+53005,Saint-David,M,53,Pierre-De Saurel,16,Montérégie
+39025,Tingwick,M,39,Arthabaska,17,Centre-du-Québec
+59035,Contrecoeur,V,59,Marguerite-D'Youville,16,Montérégie
+31025,Saint-Jacques-le-Majeur-de-Wolfestown,P,31,Les Appalaches,12,Chaudière-Appalaches
+49095,Saint-Majorique-de-Grantham,P,49,Drummond,17,Centre-du-Québec
+31020,Disraeli,P,31,Les Appalaches,12,Chaudière-Appalaches
+80095,Lac-Simon,M,80,Papineau,07,Outaouais
+80125,Saint-Émile-de-Suffolk,M,80,Papineau,07,Outaouais
+80103,Chénéville,M,80,Papineau,07,Outaouais
+80090,Montpellier,M,80,Papineau,07,Outaouais
+80115,Boileau,M,80,Papineau,07,Outaouais
+80140,Val-des-Bois,M,80,Papineau,07,Outaouais
+39105,Sainte-Séraphine,P,39,Arthabaska,17,Centre-du-Québec
+39090,Sainte-Élizabeth-de-Warwick,M,39,Arthabaska,17,Centre-du-Québec
+52007,Lavaltrie,V,52,D'Autray,14,Lanaudière
+53040,Saint-Roch-de-Richelieu,M,53,Pierre-De Saurel,16,Montérégie
+31050,Sainte-Praxède,P,31,Les Appalaches,12,Chaudière-Appalaches
+53015,Saint-Aimé,M,53,Pierre-De Saurel,16,Montérégie
+39015,Notre-Dame-de-Ham,M,39,Arthabaska,17,Centre-du-Québec
+77050,Morin-Heights,M,77,Les Pays-d'en-Haut,15,Laurentides
+63005,Sainte-Marie-Salomé,M,63,Montcalm,14,Lanaudière
+30095,Lambton,M,30,Le Granit,05,Estrie
+53032,Saint-Ours,V,53,Pierre-De Saurel,16,Montérégie
+39010,Ham-Nord,CT,39,Arthabaska,17,Centre-du-Québec
+63030,Saint-Esprit,M,63,Montcalm,14,Lanaudière
+60028,L'Assomption,V,60,L'Assomption,14,Lanaudière
+49113,Saint-Guillaume,M,49,Drummond,17,Centre-du-Québec
+49030,Saint-Lucien,M,49,Drummond,17,Centre-du-Québec
+77030,Piedmont,M,77,Les Pays-d'en-Haut,15,Laurentides
+39020,Saint-Rémi-de-Tingwick,M,39,Arthabaska,17,Centre-du-Québec
+76065,Harrington,CT,76,Argenteuil,15,Laurentides
+84082,L'Isle-aux-Allumettes,M,84,Pontiac,07,Outaouais
+77055,Lac-des-Seize-Îles,M,77,Les Pays-d'en-Haut,15,Laurentides
+80110,Namur,M,80,Papineau,07,Outaouais
+77043,Saint-Sauveur,V,77,Les Pays-d'en-Haut,15,Laurentides
+29020,Saint-Hilaire-de-Dorset,P,29,Beauce-Sartigan,12,Chaudière-Appalaches
+49100,Saint-Edmond-de-Grantham,M,49,Drummond,17,Centre-du-Québec
+53010,Massueville,VL,53,Pierre-De Saurel,16,Montérégie
+29013,Saint-Gédéon-de-Beauce,M,29,Beauce-Sartigan,12,Chaudière-Appalaches
+39005,Saints-Martyrs-Canadiens,P,39,Arthabaska,17,Centre-du-Québec
+31015,Disraeli,V,31,Les Appalaches,12,Chaudière-Appalaches
+77060,Wentworth-Nord,M,77,Les Pays-d'en-Haut,15,Laurentides
+63048,Saint-Lin–Laurentides,V,63,Montcalm,14,Lanaudière
+54125,Saint-Marcel-de-Richelieu,M,54,Les Maskoutains,16,Montérégie
+54120,Saint-Louis,M,54,Les Maskoutains,16,Montérégie
+75040,Prévost,V,75,La Rivière-du-Nord,15,Laurentides
+83005,Denholm,M,83,La Vallée-de-la-Gatineau,07,Outaouais
+83010,Low,CT,83,La Vallée-de-la-Gatineau,07,Outaouais
+60037,L'Épiphanie,V,60,L'Assomption,14,Lanaudière
+63035,Saint-Roch-de-l'Achigan,M,63,Montcalm,14,Lanaudière
+31008,Beaulac-Garthby,M,31,Les Appalaches,12,Chaudière-Appalaches
+54115,Saint-Bernard-de-Michaudville,M,54,Les Maskoutains,16,Montérégie
+39097,Kingsey Falls,V,39,Arthabaska,17,Centre-du-Québec
+84040,Litchfield,M,84,Pontiac,07,Outaouais
+49048,Saint-Germain-de-Grantham,M,49,Drummond,17,Centre-du-Québec
+77035,Sainte-Anne-des-Lacs,P,77,Les Pays-d'en-Haut,15,Laurentides
+63040,Saint-Roch-Ouest,M,63,Montcalm,14,Lanaudière
+40010,Saint-Adrien,M,40,Les Sources,05,Estrie
+75028,Sainte-Sophie,M,75,La Rivière-du-Nord,15,Laurentides
+30110,Stratford,CT,30,Le Granit,05,Estrie
+49005,Saint-Félix-de-Kingsey,M,49,Drummond,17,Centre-du-Québec
+60020,Saint-Sulpice,P,60,L'Assomption,14,Lanaudière
+80085,Mulgrave-et-Derry,M,80,Papineau,07,Outaouais
+80020,Notre-Dame-de-la-Paix,M,80,Papineau,07,Outaouais
+80078,Ripon,M,80,Papineau,07,Outaouais
+57075,Saint-Antoine-sur-Richelieu,M,57,La Vallée-du-Richelieu,16,Montérégie
+80015,Notre-Dame-de-Bonsecours,M,80,Papineau,07,Outaouais
+76030,Mille-Isles,M,76,Argenteuil,15,Laurentides
+49105,Saint-Eugène,M,49,Drummond,17,Centre-du-Québec
+84060,Fort-Coulonge,VL,84,Pontiac,07,Outaouais
+54110,Saint-Jude,M,54,Les Maskoutains,16,Montérégie
+40047,Danville,V,40,Les Sources,05,Estrie
+54100,Saint-Hugues,M,54,Les Maskoutains,16,Montérégie
+30085,Saint-Sébastien,M,30,Le Granit,05,Estrie
+75017,Saint-Jérôme,V,75,La Rivière-du-Nord,15,Laurentides
+76035,Wentworth,CT,76,Argenteuil,15,Laurentides
+80087,Notre-Dame-de-la-Salette,M,80,Papineau,07,Outaouais
+30100,Saint-Romain,M,30,Le Granit,05,Estrie
+80027,Saint-André-Avellin,M,80,Papineau,07,Outaouais
+82015,Val-des-Monts,M,82,Les Collines-de-l'Outaouais,07,Outaouais
+40005,Ham-Sud,M,40,Les Sources,05,Estrie
+30105,Stornoway,M,30,Le Granit,05,Estrie
+57068,Saint-Denis-sur-Richelieu,M,57,La Vallée-du-Richelieu,16,Montérégie
+49040,Wickham,M,49,Drummond,17,Centre-du-Québec
+76025,Gore,CT,76,Argenteuil,15,Laurentides
+84035,L'Île-du-Grand-Calumet,M,84,Pontiac,07,Outaouais
+64008,Terrebonne,V,64,Les Moulins,14,Lanaudière
+49025,L'Avenir,M,49,Drummond,17,Centre-du-Québec
+30070,Saint-Robert-Bellarmin,M,30,Le Granit,05,Estrie
+40017,Wotton,M,40,Les Sources,05,Estrie
+84045,Thorne,M,84,Pontiac,07,Outaouais
+64015,Mascouche,V,64,Les Moulins,14,Lanaudière
+60013,Repentigny,V,60,L'Assomption,14,Lanaudière
+73035,Sainte-Anne-des-Plaines,V,73,Thérèse-De Blainville,15,Laurentides
+59025,Verchères,M,59,Marguerite-D'Youville,16,Montérégie
+30072,Saint-Ludger,M,30,Le Granit,05,Estrie
+54105,Saint-Barnabé-Sud,M,54,Les Maskoutains,16,Montérégie
+82035,La Pêche,M,82,Les Collines-de-l'Outaouais,07,Outaouais
+40043,Val-des-Sources,V,40,Les Sources,05,Estrie
+76052,Grenville-sur-la-Rouge,M,76,Argenteuil,15,Laurentides
+41098,Weedon,M,41,Le Haut-Saint-François,05,Estrie
+54095,Sainte-Hélène-de-Bagot,M,54,Les Maskoutains,16,Montérégie
+75005,Saint-Colomban,V,75,La Rivière-du-Nord,15,Laurentides
+48050,Saint-Nazaire-d'Acton,P,48,Acton,16,Montérégie
+59030,Calixa-Lavallée,M,59,Marguerite-D'Youville,16,Montérégie
+74005,Mirabel,V,74,Mirabel,15,Laurentides
+30080,Lac-Drolet,M,30,Le Granit,05,Estrie
+54090,Saint-Simon,M,54,Les Maskoutains,16,Montérégie
+49020,Lefebvre,M,49,Drummond,17,Centre-du-Québec
+76043,Brownsburg-Chatham,V,76,Argenteuil,15,Laurentides
+42110,Cleveland,CT,42,Le Val-Saint-François,05,Estrie
+54035,La Présentation,M,54,Les Maskoutains,16,Montérégie
+30050,Sainte-Cécile-de-Whitton,M,30,Le Granit,05,Estrie
+42078,Ulverton,M,42,Le Val-Saint-François,05,Estrie
+40032,Saint-Georges-de-Windsor,M,40,Les Sources,05,Estrie
+40025,Saint-Camille,CT,40,Les Sources,05,Estrie
+84015,Clarendon,M,84,Pontiac,07,Outaouais
+59020,Varennes,V,59,Marguerite-D'Youville,16,Montérégie
+57050,Saint-Marc-sur-Richelieu,M,57,La Vallée-du-Richelieu,16,Montérégie
+84030,Campbell's Bay,M,84,Pontiac,07,Outaouais
+80070,Saint-Sixte,M,80,Papineau,07,Outaouais
+60005,Charlemagne,V,60,L'Assomption,14,Lanaudière
+48045,Saint-Théodore-d'Acton,M,48,Acton,16,Montérégie
+76020,Lachute,V,76,Argenteuil,15,Laurentides
+80037,Papineauville,M,80,Papineau,07,Outaouais
+80065,Mayo,M,80,Papineau,07,Outaouais
+57057,Saint-Charles-sur-Richelieu,M,57,La Vallée-du-Richelieu,16,Montérégie
+73015,Blainville,V,73,Thérèse-De Blainville,15,Laurentides
+54048,Saint-Hyacinthe,V,54,Les Maskoutains,16,Montérégie
+42100,Saint-Claude,M,42,Le Val-Saint-François,05,Estrie
+48038,Upton,M,48,Acton,16,Montérégie
+82005,L'Ange-Gardien,M,82,Les Collines-de-l'Outaouais,07,Outaouais
+41117,Dudswell,M,41,Le Haut-Saint-François,05,Estrie
+54072,Saint-Liboire,M,54,Les Maskoutains,16,Montérégie
+41085,Lingwick,CT,41,Le Haut-Saint-François,05,Estrie
+30055,Audet,M,30,Le Granit,05,Estrie
+49015,Durham-Sud,M,49,Drummond,17,Centre-du-Québec
+66023,Montréal,V,66,Montréal,06,Montréal
+30045,Nantes,M,30,Le Granit,05,Estrie
+65005,Laval,V,65,Laval,13,Laval
+59015,Saint-Amable,V,59,Marguerite-D'Youville,16,Montérégie
+42075,Melbourne,CT,42,Le Val-Saint-François,05,Estrie
+73030,Bois-des-Filion,V,73,Thérèse-De Blainville,15,Laurentides
+73025,Lorraine,V,73,Thérèse-De Blainville,15,Laurentides
+84005,Bristol,M,84,Pontiac,07,Outaouais
+82030,Pontiac,M,82,Les Collines-de-l'Outaouais,07,Outaouais
+84025,Bryson,M,84,Pontiac,07,Outaouais
+42098,Richmond,V,42,Le Val-Saint-François,05,Estrie
+48020,Sainte-Christine,P,48,Acton,16,Montérégie
+48028,Acton Vale,V,48,Acton,16,Montérégie
+80010,Montebello,M,80,Papineau,07,Outaouais
+80005,Fassett,M,80,Papineau,07,Outaouais
+73020,Rosemère,V,73,Thérèse-De Blainville,15,Laurentides
+80045,Plaisance,M,80,Papineau,07,Outaouais
+73010,Sainte-Thérèse,V,73,Thérèse-De Blainville,15,Laurentides
+80055,Lochaber,CT,80,Papineau,07,Outaouais
+58033,Boucherville,V,58,Longueuil,16,Montérégie
+30040,Milan,M,30,Le Granit,05,Estrie
+54060,Saint-Dominique,M,54,Les Maskoutains,16,Montérégie
+57045,Saint-Mathieu-de-Beloeil,M,57,La Vallée-du-Richelieu,16,Montérégie
+59010,Sainte-Julie,V,59,Marguerite-D'Youville,16,Montérégie
+42005,Stoke,M,42,Le Val-Saint-François,05,Estrie
+73005,Boisbriand,V,73,Thérèse-De Blainville,15,Laurentides
+66007,Montréal-Est,V,66,Montréal,06,Montréal
+42095,Val-Joli,M,42,Le Val-Saint-François,05,Estrie
+76055,Grenville,VL,76,Argenteuil,15,Laurentides
+80060,Lochaber-Partie-Ouest,CT,80,Papineau,07,Outaouais
+30025,Frontenac,M,30,Le Granit,05,Estrie
+82020,Cantley,M,82,Les Collines-de-l'Outaouais,07,Outaouais
+57040,Beloeil,V,57,La Vallée-du-Richelieu,16,Montérégie
+54030,Sainte-Marie-Madeleine,P,54,Les Maskoutains,16,Montérégie
+57035,Mont-Saint-Hilaire,V,57,La Vallée-du-Richelieu,16,Montérégie
+76008,Saint-André-d'Argenteuil,M,76,Argenteuil,15,Laurentides
+80050,Thurso,V,80,Papineau,07,Outaouais
+84010,Shawville,M,84,Pontiac,07,Outaouais
+72005,Saint-Eustache,V,72,Deux-Montagnes,15,Laurentides
+30030,Lac-Mégantic,V,30,Le Granit,05,Estrie
+54065,Saint-Valérien-de-Milton,M,54,Les Maskoutains,16,Montérégie
+82025,Chelsea,M,82,Les Collines-de-l'Outaouais,07,Outaouais
+84020,Portage-du-Fort,VL,84,Pontiac,07,Outaouais
+54025,Sainte-Madeleine,VL,54,Les Maskoutains,16,Montérégie
+30035,Marston,CT,30,Le Granit,05,Estrie
+48015,Roxton,CT,48,Acton,16,Montérégie
+41070,Bury,M,41,Le Haut-Saint-François,05,Estrie
+42020,Saint-François-Xavier-de-Brompton,M,42,Le Val-Saint-François,05,Estrie
+81017,Gatineau,V,81,Gatineau,07,Outaouais
+42065,Maricourt,M,42,Le Val-Saint-François,05,Estrie
+42070,Kingsbury,VL,42,Le Val-Saint-François,05,Estrie
+42088,Windsor,V,42,Le Val-Saint-François,05,Estrie
+58227,Longueuil,V,58,Longueuil,16,Montérégie
+48010,Roxton Falls,VL,48,Acton,16,Montérégie
+72043,Saint-Placide,M,72,Deux-Montagnes,15,Laurentides
+54008,Saint-Pie,V,54,Les Maskoutains,16,Montérégie
+57020,Saint-Basile-le-Grand,V,57,La Vallée-du-Richelieu,16,Montérégie
+57033,Saint-Jean-Baptiste,M,57,La Vallée-du-Richelieu,16,Montérégie
+58037,Saint-Bruno-de-Montarville,V,58,Longueuil,16,Montérégie
+48005,Béthanie,M,48,Acton,16,Montérégie
+54017,Saint-Damase,M,54,Les Maskoutains,16,Montérégie
+41075,Hampden,CT,41,Le Haut-Saint-François,05,Estrie
+72025,Saint-Joseph-du-Lac,M,72,Deux-Montagnes,15,Laurentides
+30015,Val-Racine,M,30,Le Granit,05,Estrie
+71140,Pointe-Fortune,M,71,Vaudreuil-Soulanges,16,Montérégie
+42032,Racine,M,42,Le Val-Saint-François,05,Estrie
+72010,Deux-Montagnes,V,72,Deux-Montagnes,15,Laurentides
+57025,McMasterville,V,57,La Vallée-du-Richelieu,16,Montérégie
+57030,Otterburn Park,V,57,La Vallée-du-Richelieu,16,Montérégie
+72015,Sainte-Marthe-sur-le-Lac,V,72,Deux-Montagnes,15,Laurentides
+41080,Scotstown,V,41,Le Haut-Saint-François,05,Estrie
+72032,Oka,M,72,Deux-Montagnes,15,Laurentides
+47047,Roxton Pond,M,47,La Haute-Yamaska,05,Estrie
+47055,Sainte-Cécile-de-Milton,M,47,La Haute-Yamaska,05,Estrie
+55065,Saint-Mathias-sur-Richelieu,M,55,Rouville,16,Montérégie
+41065,Westbury,CT,41,Le Haut-Saint-François,05,Estrie
+71133,Rigaud,V,71,Vaudreuil-Soulanges,16,Montérégie
+42060,Valcourt,CT,42,Le Val-Saint-François,05,Estrie
+66072,Mont-Royal,V,66,Montréal,06,Montréal
+30020,Piopolis,M,30,Le Granit,05,Estrie
+43027,Sherbrooke,V,43,Sherbrooke,05,Estrie
+72802,Kanesatake,EI,72,Deux-Montagnes,15,Laurentides
+41055,Ascot Corner,M,41,Le Haut-Saint-François,05,Estrie
+58012,Saint-Lambert,V,58,Longueuil,16,Montérégie
+72020,Pointe-Calumet,M,72,Deux-Montagnes,15,Laurentides
+57010,Carignan,V,57,La Vallée-du-Richelieu,16,Montérégie
+66142,Dollard-des-Ormeaux,V,66,Montréal,06,Montréal
+42055,Valcourt,V,42,Le Val-Saint-François,05,Estrie
+47040,Saint-Joachim-de-Shefford,M,47,La Haute-Yamaska,05,Estrie
+42025,Saint-Denis-de-Brompton,M,42,Le Val-Saint-François,05,Estrie
+66032,Westmount,V,66,Montréal,06,Montréal
+41060,East Angus,V,41,Le Haut-Saint-François,05,Estrie
+66087,Dorval,V,66,Montréal,06,Montréal
+66058,Côte-Saint-Luc,V,66,Montréal,06,Montréal
+55037,Rougemont,M,55,Rouville,16,Montérégie
+55048,Marieville,V,55,Rouville,16,Montérégie
+66062,Hampstead,V,66,Montréal,06,Montréal
+58007,Brossard,V,58,Longueuil,16,Montérégie
+71100,Hudson,V,71,Vaudreuil-Soulanges,16,Montérégie
+66097,Pointe-Claire,V,66,Montréal,06,Montréal
+55023,Saint-Césaire,V,55,Rouville,16,Montérégie
+55015,Saint-Paul-d'Abbotsford,M,55,Rouville,16,Montérégie
+66102,Kirkland,V,66,Montréal,06,Montréal
+71083,Vaudreuil-Dorion,V,71,Vaudreuil-Soulanges,16,Montérégie
+57005,Chambly,V,57,La Vallée-du-Richelieu,16,Montérégie
+30010,Notre-Dame-des-Bois,M,30,Le Granit,05,Estrie
+41027,La Patrie,M,41,Le Haut-Saint-François,05,Estrie
+41037,Newport,M,41,Le Haut-Saint-François,05,Estrie
+66047,Montréal-Ouest,V,66,Montréal,06,Montréal
+47017,Granby,V,47,La Haute-Yamaska,05,Estrie
+71125,Très-Saint-Rédempteur,M,71,Vaudreuil-Soulanges,16,Montérégie
+55057,Richelieu,V,55,Rouville,16,Montérégie
+41038,Cookshire-Eaton,V,41,Le Haut-Saint-François,05,Estrie
+30005,Saint-Augustin-de-Woburn,P,30,Le Granit,05,Estrie
+66127,Senneville,VL,66,Montréal,06,Montréal
+42050,Sainte-Anne-de-la-Rochelle,M,42,Le Val-Saint-François,05,Estrie
+42045,Lawrenceville,VL,42,Le Val-Saint-François,05,Estrie
+42040,Bonsecours,M,42,Le Val-Saint-François,05,Estrie
+71105,Saint-Lazare,V,71,Vaudreuil-Soulanges,16,Montérégie
+45115,Orford,CT,45,Memphrémagog,05,Estrie
+66117,Sainte-Anne-de-Bellevue,V,66,Montréal,06,Montréal
+66107,Beaconsfield,V,66,Montréal,06,Montréal
+71110,Sainte-Marthe,M,71,Vaudreuil-Soulanges,16,Montérégie
+55030,Sainte-Angèle-de-Monnoir,M,55,Rouville,16,Montérégie
+67015,La Prairie,V,67,Roussillon,16,Montérégie
+66112,Baie-D'Urfé,V,66,Montréal,06,Montréal
+71095,L'Île-Cadieux,V,71,Vaudreuil-Soulanges,16,Montérégie
+66092,L'Île-Dorval,V,66,Montréal,06,Montréal
+71090,Vaudreuil-sur-le-Lac,VL,71,Vaudreuil-Soulanges,16,Montérégie
+47035,Shefford,CT,47,La Haute-Yamaska,05,Estrie
+71115,Sainte-Justine-de-Newton,M,71,Vaudreuil-Soulanges,16,Montérégie
+67802,Kahnawake,R,67,Roussillon,16,Montérégie
+56083,Saint-Jean-sur-Richelieu,V,56,Le Haut-Richelieu,16,Montérégie
+67030,Sainte-Catherine,V,67,Roussillon,16,Montérégie
+67025,Delson,V,67,Roussillon,16,Montérégie
+71065,Notre-Dame-de-l'Île-Perrot,V,71,Vaudreuil-Soulanges,16,Montérégie
+67020,Candiac,V,67,Roussillon,16,Montérégie
+71060,L'Île-Perrot,V,71,Vaudreuil-Soulanges,16,Montérégie
+67050,Châteauguay,V,67,Roussillon,16,Montérégie
+71075,Terrasse-Vaudreuil,M,71,Vaudreuil-Soulanges,16,Montérégie
+67035,Saint-Constant,V,67,Roussillon,16,Montérégie
+55008,Ange-Gardien,M,55,Rouville,16,Montérégie
+67010,Saint-Philippe,M,67,Roussillon,16,Montérégie
+56097,Mont-Saint-Grégoire,M,56,Le Haut-Richelieu,16,Montérégie
+71070,Pincourt,V,71,Vaudreuil-Soulanges,16,Montérégie
+71045,Saint-Clet,M,71,Vaudreuil-Soulanges,16,Montérégie
+47030,Warden,VL,47,La Haute-Yamaska,05,Estrie
+56105,Sainte-Brigide-d'Iberville,M,56,Le Haut-Richelieu,16,Montérégie
+71050,Les Cèdres,M,71,Vaudreuil-Soulanges,16,Montérégie
+45093,Eastman,M,45,Memphrémagog,05,Estrie
+45105,Stukely-Sud,VL,45,Memphrémagog,05,Estrie
+67055,Léry,V,67,Roussillon,16,Montérégie
+47010,Saint-Alphonse-de-Granby,M,47,La Haute-Yamaska,05,Estrie
+45055,Hatley,CT,45,Memphrémagog,05,Estrie
+47025,Waterloo,V,47,La Haute-Yamaska,05,Estrie
+71020,Saint-Polycarpe,M,71,Vaudreuil-Soulanges,16,Montérégie
+71040,Coteau-du-Lac,V,71,Vaudreuil-Soulanges,16,Montérégie
+46078,Bromont,V,46,Brome-Missisquoi,05,Estrie
+41020,Chartierville,M,41,Le Haut-Saint-François,05,Estrie
+67040,Saint-Isidore,P,67,Roussillon,16,Montérégie
+44080,Waterville,V,44,Coaticook,05,Estrie
+67005,Saint-Mathieu,M,67,Roussillon,16,Montérégie
+67045,Mercier,V,67,Roussillon,16,Montérégie
+46112,Farnham,V,46,Brome-Missisquoi,05,Estrie
+70022,Beauharnois,V,70,Beauharnois-Salaberry,16,Montérégie
+71055,Pointe-des-Cascades,VL,71,Vaudreuil-Soulanges,16,Montérégie
+71015,Saint-Télesphore,M,71,Vaudreuil-Soulanges,16,Montérégie
+68040,Saint-Jacques-le-Mineur,M,68,Les Jardins-de-Napierville,16,Montérégie
+68055,Saint-Rémi,V,68,Les Jardins-de-Napierville,16,Montérégie
+70012,Sainte-Martine,M,70,Beauharnois-Salaberry,16,Montérégie
+70052,Salaberry-de-Valleyfield,V,70,Beauharnois-Salaberry,16,Montérégie
+41012,Saint-Isidore-de-Clifton,M,41,Le Haut-Saint-François,05,Estrie
+45060,Sainte-Catherine-de-Hatley,M,45,Memphrémagog,05,Estrie
+46065,Bolton-Ouest,M,46,Brome-Missisquoi,05,Estrie
+45100,Saint-Étienne-de-Bolton,M,45,Memphrémagog,05,Estrie
+46075,Lac-Brome,V,46,Brome-Missisquoi,05,Estrie
+45085,Austin,M,45,Memphrémagog,05,Estrie
+44071,Compton,M,44,Coaticook,05,Estrie
+44060,Martinville,M,44,Coaticook,05,Estrie
+45072,Magog,V,45,Memphrémagog,05,Estrie
+46090,Brigham,M,46,Brome-Missisquoi,05,Estrie
+68045,Saint-Édouard,M,68,Les Jardins-de-Napierville,16,Montérégie
+68050,Saint-Michel,M,68,Les Jardins-de-Napierville,16,Montérégie
+46105,Sainte-Sabine,M,46,Brome-Missisquoi,05,Estrie
+71033,Les Coteaux,M,71,Vaudreuil-Soulanges,16,Montérégie
+56055,Saint-Alexandre,M,56,Le Haut-Richelieu,16,Montérégie
+45095,Bolton-Est,M,45,Memphrémagog,05,Estrie
+45050,North Hatley,VL,45,Memphrémagog,05,Estrie
+71025,Saint-Zotique,V,71,Vaudreuil-Soulanges,16,Montérégie
+56065,Saint-Blaise-sur-Richelieu,M,56,Le Haut-Richelieu,16,Montérégie
+70030,Saint-Étienne-de-Beauharnois,M,70,Beauharnois-Salaberry,16,Montérégie
+56060,Sainte-Anne-de-Sabrevois,P,56,Le Haut-Richelieu,16,Montérégie
+68035,Saint-Cyprien-de-Napierville,M,68,Les Jardins-de-Napierville,16,Montérégie
+70005,Saint-Urbain-Premier,M,70,Beauharnois-Salaberry,16,Montérégie
+70035,Saint-Louis-de-Gonzague,P,70,Beauharnois-Salaberry,16,Montérégie
+46085,East Farnham,M,46,Brome-Missisquoi,05,Estrie
+71005,Rivière-Beaudette,M,71,Vaudreuil-Soulanges,16,Montérégie
+44055,Sainte-Edwidge-de-Clifton,CT,44,Coaticook,05,Estrie
+44003,Saint-Malo,M,44,Coaticook,05,Estrie
+45043,Hatley,M,45,Memphrémagog,05,Estrie
+46080,Cowansville,V,46,Brome-Missisquoi,05,Estrie
+46050,Dunham,V,46,Brome-Missisquoi,05,Estrie
+46095,Saint-Ignace-de-Stanbridge,M,46,Brome-Missisquoi,05,Estrie
+70040,Saint-Stanislas-de-Kostka,M,70,Beauharnois-Salaberry,16,Montérégie
+69030,Très-Saint-Sacrement,M,69,Le Haut-Saint-Laurent,16,Montérégie
+46100,Notre-Dame-de-Stanbridge,M,46,Brome-Missisquoi,05,Estrie
+46070,Brome,VL,46,Brome-Missisquoi,05,Estrie
+68020,Sainte-Clotilde,M,68,Les Jardins-de-Napierville,16,Montérégie
+68025,Saint-Patrice-de-Sherrington,M,68,Les Jardins-de-Napierville,16,Montérégie
+56050,Saint-Sébastien,M,56,Le Haut-Richelieu,16,Montérégie
+68030,Napierville,M,68,Les Jardins-de-Napierville,16,Montérégie
+69025,Howick,M,69,Le Haut-Saint-Laurent,16,Montérégie
+56030,Saint-Valentin,M,56,Le Haut-Richelieu,16,Montérégie
+69065,Sainte-Barbe,M,69,Le Haut-Saint-Laurent,16,Montérégie
+56042,Henryville,M,56,Le Haut-Richelieu,16,Montérégie
+45035,Ayer's Cliff,VL,45,Memphrémagog,05,Estrie
+56035,Saint-Paul-de-l'Île-aux-Noix,M,56,Le Haut-Richelieu,16,Montérégie
+69037,Ormstown,M,69,Le Haut-Saint-Laurent,16,Montérégie
+45080,Saint-Benoît-du-Lac,M,45,Memphrémagog,05,Estrie
+69017,Saint-Chrysostome,M,69,Le Haut-Saint-Laurent,16,Montérégie
+69070,Saint-Anicet,M,69,Le Haut-Saint-Laurent,16,Montérégie
+69060,Godmanchester,CT,69,Le Haut-Saint-Laurent,16,Montérégie
+46058,Sutton,V,46,Brome-Missisquoi,05,Estrie
+45025,Stanstead,CT,45,Memphrémagog,05,Estrie
+44050,Stanstead-Est,M,44,Coaticook,05,Estrie
+44045,Barnston-Ouest,M,44,Coaticook,05,Estrie
+44037,Coaticook,V,44,Coaticook,05,Estrie
+44015,Saint-Herménégilde,M,44,Coaticook,05,Estrie
+44005,Saint-Venant-de-Paquette,M,44,Coaticook,05,Estrie
+45030,Potton,CT,45,Memphrémagog,05,Estrie
+46025,Pike River,M,46,Brome-Missisquoi,05,Estrie
+46045,Stanbridge East,M,46,Brome-Missisquoi,05,Estrie
+46030,Stanbridge Station,M,46,Brome-Missisquoi,05,Estrie
+46040,Bedford,CT,46,Brome-Missisquoi,05,Estrie
+44010,East Hereford,M,44,Coaticook,05,Estrie
+68015,Hemmingford,CT,68,Les Jardins-de-Napierville,16,Montérégie
+56023,Lacolle,M,56,Le Haut-Richelieu,16,Montérégie
+46035,Bedford,V,46,Brome-Missisquoi,05,Estrie
+68005,Saint-Bernard-de-Lacolle,P,68,Les Jardins-de-Napierville,16,Montérégie
+69045,Hinchinbrooke,M,69,Le Haut-Saint-Laurent,16,Montérégie
+44023,Dixville,M,44,Coaticook,05,Estrie
+69010,Franklin,M,69,Le Haut-Saint-Laurent,16,Montérégie
+69055,Huntingdon,V,69,Le Haut-Saint-Laurent,16,Montérégie
+56005,Venise-en-Québec,M,56,Le Haut-Richelieu,16,Montérégie
+56010,Clarenceville,M,56,Le Haut-Richelieu,16,Montérégie
+56015,Noyan,M,56,Le Haut-Richelieu,16,Montérégie
+69005,Havelock,CT,69,Le Haut-Saint-Laurent,16,Montérégie
+45020,Ogden,M,45,Memphrémagog,05,Estrie
+46010,Frelighsburg,M,46,Brome-Missisquoi,05,Estrie
+46017,Saint-Armand,M,46,Brome-Missisquoi,05,Estrie
+69075,Dundee,CT,69,Le Haut-Saint-Laurent,16,Montérégie
+69050,Elgin,M,69,Le Haut-Saint-Laurent,16,Montérégie
+46005,Abercorn,VL,46,Brome-Missisquoi,05,Estrie
+68010,Hemmingford,VL,68,Les Jardins-de-Napierville,16,Montérégie
+45008,Stanstead,V,45,Memphrémagog,05,Estrie
+69802,Akwesasne,R,69,Le Haut-Saint-Laurent,16,Montérégie
+92903,Sainte-Élisabeth-de-Proulx,NO,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean
+99820,Oujé-Bougoumou,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99908,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec
+99030,Mistissini,VC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99804,Mistissini,TC,993,Nouveau toponyme à venir,10,Nord-du-Québec
+99914,Toponyme à venir,NO,991,Jamésie,10,Nord-du-Québec

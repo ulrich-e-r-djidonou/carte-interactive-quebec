@@ -1,0 +1,232 @@
+code_ville,ville,code_mrc,mrc,code_region,region,population,revenu_median,age_median,taux_proprietaires_pct
+97040,Schefferville,972,Caniapiscau,09,Côte-Nord,13076,63550,43.7,69.2
+97035,Fermont,972,Caniapiscau,09,Côte-Nord,32312,59599,45.8,60.8
+97007,Sept-Îles,971,Sept-Rivières,09,Côte-Nord,23012,68875,38.8,53.2
+97022,Port-Cartier,971,Sept-Rivières,09,Côte-Nord,27718,62984,44.2,56.4
+99025,Chibougamau,991,Jamésie,10,Nord-du-Québec,23500,74519,39.5,57.6
+99020,Chapais,991,Jamésie,10,Nord-du-Québec,2670,67201,52.6,70.8
+99015,Matagami,991,Jamésie,10,Nord-du-Québec,23892,73858,43.8,60.0
+96020,Baie-Comeau,96,Manicouagan,09,Côte-Nord,7955,77093,43.0,67.9
+04037,Sainte-Anne-des-Monts,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine,36057,68173,47.9,67.1
+03005,Gaspé,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine,39809,62145,41.8,56.5
+04047,Cap-Chat,04,La Haute-Gaspésie,11,Gaspésie–Îles-de-la-Madeleine,20092,71071,40.5,84.1
+99005,Lebel-sur-Quévillon,991,Jamésie,10,Nord-du-Québec,13269,65899,40.0,66.0
+92022,Dolbeau-Mistassini,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean,12480,65160,39.0,36.9
+89040,Senneterre,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue,18254,54820,40.9,60.5
+90012,La Tuque,90,La Tuque,04,Mauricie,2000,76048,45.2,75.8
+03025,Murdochville,03,La Côte-de-Gaspé,11,Gaspésie–Îles-de-la-Madeleine,9947,77581,39.5,70.1
+92040,Normandin,92,Maria-Chapdelaine,02,Saguenay–Lac-Saint-Jean,19414,80216,44.2,65.0
+87090,La Sarre,87,Abitibi-Ouest,08,Abitibi-Témiscamingue,20921,65821,43.4,83.4
+08053,Matane,08,La Matanie,01,Bas-Saint-Laurent,66661,61814,40.2,80.1
+95045,Forestville,95,La Haute-Côte-Nord,09,Côte-Nord,8544,77556,46.9,42.6
+91042,Saint-Félicien,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean,22315,76559,47.3,54.2
+87058,Macamic,87,Abitibi-Ouest,08,Abitibi-Témiscamingue,4934,52876,42.9,68.9
+88057,Amos,88,Abitibi,08,Abitibi-Témiscamingue,23807,69015,45.3,69.9
+02005,Percé,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine,24006,65814,45.8,58.6
+09048,Métis-sur-Mer,09,La Mitis,01,Bas-Saint-Laurent,25734,56836,41.9,71.8
+93042,Alma,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean,8278,70839,36.6,55.3
+09077,Mont-Joli,09,La Mitis,01,Bas-Saint-Laurent,4933,57814,49.1,51.7
+94240,Saint-Honoré,942,Le Fjord-du-Saguenay,02,Saguenay–Lac-Saint-Jean,7935,78244,43.6,59.9
+86042,Rouyn-Noranda,86,Rouyn-Noranda,08,Abitibi-Témiscamingue,14814,69201,40.5,67.0
+94068,Saguenay,941,Saguenay,02,Saguenay–Lac-Saint-Jean,148000,64000,46.1,58.3
+07047,Amqui,07,La Matapédia,01,Bas-Saint-Laurent,38365,58356,46.7,65.6
+91025,Roberval,91,Le Domaine-du-Roy,02,Saguenay–Lac-Saint-Jean,8024,73664,42.0,70.1
+10043,Rimouski,10,Rimouski-Neigette,01,Bas-Saint-Laurent,27290,71694,37.8,70.8
+87005,Duparquet,87,Abitibi-Ouest,08,Abitibi-Témiscamingue,14250,67208,46.3,51.0
+02028,Chandler,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine,11191,68580,51.6,71.3
+02015,Grande-Rivière,02,Le Rocher-Percé,11,Gaspésie–Îles-de-la-Madeleine,28939,60095,42.2,71.1
+93012,Métabetchouan–Lac-à-la-Croix,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean,16915,64984,41.5,66.4
+07018,Causapscal,07,La Matapédia,01,Bas-Saint-Laurent,39847,68606,45.4,66.5
+93005,Desbiens,93,Lac-Saint-Jean-Est,02,Saguenay–Lac-Saint-Jean,9412,63933,42.1,67.4
+05070,New Richmond,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine,16651,68570,36.8,59.4
+89008,Val-d'Or,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue,8633,76069,45.3,67.9
+06013,Carleton-sur-Mer,06,Avignon,11,Gaspésie–Îles-de-la-Madeleine,2000,61955,41.3,84.5
+89015,Malartic,89,La Vallée-de-l'Or,08,Abitibi-Témiscamingue,4031,66634,43.5,64.9
+05032,Paspébiac,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine,8343,76926,37.9,58.9
+05045,Bonaventure,05,Bonaventure,11,Gaspésie–Îles-de-la-Madeleine,10643,45104,48.8,65.8
+11040,Trois-Pistoles,11,Les Basques,01,Bas-Saint-Laurent,22888,61985,50.1,58.9
+13062,Lac-des-Aigles,13,Témiscouata,01,Bas-Saint-Laurent,23740,69646,39.8,62.7
+12072,Rivière-du-Loup,12,Rivière-du-Loup,01,Bas-Saint-Laurent,10365,59435,38.3,77.8
+15013,La Malbaie,15,Charlevoix-Est,03,Capitale-Nationale,9055,73417,37.7,70.1
+13005,Dégelis,13,Témiscouata,01,Bas-Saint-Laurent,16680,69291,48.6,63.6
+12015,Saint-Antonin,12,Rivière-du-Loup,01,Bas-Saint-Laurent,3506,57115,40.7,71.5
+13073,Témiscouata-sur-le-Lac,13,Témiscouata,01,Bas-Saint-Laurent,51707,60823,41.8,63.8
+15035,Clermont,15,Charlevoix-Est,03,Capitale-Nationale,16142,67429,36.1,61.2
+13095,Pohénégamook,13,Témiscouata,01,Bas-Saint-Laurent,15439,75501,46.2,68.1
+14018,Saint-Pascal,14,Kamouraska,01,Bas-Saint-Laurent,32271,60872,46.9,73.0
+16013,Baie-Saint-Paul,16,Charlevoix,03,Capitale-Nationale,15222,62696,39.9,47.8
+85065,Belleterre,85,Témiscamingue,08,Abitibi-Témiscamingue,29087,69129,44.9,73.9
+14082,La Pocatière,14,Kamouraska,01,Bas-Saint-Laurent,2000,71110,44.9,57.5
+85025,Ville-Marie,85,Témiscamingue,08,Abitibi-Témiscamingue,5204,64612,43.6,72.9
+34128,Saint-Raymond,34,Portneuf,03,Capitale-Nationale,4190,52285,43.0,66.7
+21030,Sainte-Anne-de-Beaupré,21,La Côte-de-Beaupré,03,Capitale-Nationale,21334,62356,47.7,76.0
+21035,Château-Richer,21,La Côte-de-Beaupré,03,Capitale-Nationale,7001,60436,48.8,54.6
+21025,Beaupré,21,La Côte-de-Beaupré,03,Capitale-Nationale,9101,68483,40.0,62.7
+22045,Sainte-Brigitte-de-Laval,22,La Jacques-Cartier,03,Capitale-Nationale,50088,56319,50.7,55.3
+17010,Saint-Pamphile,17,L'Islet,12,Chaudière-Appalaches,6059,79686,46.8,58.5
+18050,Montmagny,18,Montmagny,12,Chaudière-Appalaches,5934,74536,41.9,45.9
+85005,Témiscaming,85,Témiscamingue,08,Abitibi-Témiscamingue,16024,60577,42.6,64.9
+23027,Québec,23,Québec,03,Capitale-Nationale,550000,71000,42.1,77.2
+22030,Lac-Delage,22,La Jacques-Cartier,03,Capitale-Nationale,23721,78290,48.0,64.8
+22015,Lac-Saint-Joseph,22,La Jacques-Cartier,03,Capitale-Nationale,3909,74731,40.9,56.8
+22005,Sainte-Catherine-de-la-Jacques-Cartier,22,La Jacques-Cartier,03,Capitale-Nationale,19566,81636,42.8,64.0
+34048,Portneuf,34,Portneuf,03,Capitale-Nationale,2438,81998,42.7,66.9
+36033,Shawinigan,36,Shawinigan,04,Mauricie,10137,75498,44.3,61.8
+22010,Fossambault-sur-le-Lac,22,La Jacques-Cartier,03,Capitale-Nationale,10540,82870,43.0,53.9
+34120,Lac-Sergent,34,Portneuf,03,Capitale-Nationale,10248,51758,42.6,66.8
+34017,Pont-Rouge,34,Portneuf,03,Capitale-Nationale,9440,61681,41.9,72.6
+34038,Saint-Basile,34,Portneuf,03,Capitale-Nationale,34892,65461,51.0,70.0
+25213,Lévis,251,Lévis,12,Chaudière-Appalaches,152000,79000,41.2,61.5
+23057,L'Ancienne-Lorette,23,Québec,03,Capitale-Nationale,2000,63433,45.9,88.0
+23072,Saint-Augustin-de-Desmaures,23,Québec,03,Capitale-Nationale,36777,79190,44.0,66.0
+35027,Saint-Tite,35,Mékinac,04,Mauricie,2000,77321,38.3,66.1
+34007,Neuville,34,Portneuf,03,Capitale-Nationale,2000,65075,45.6,81.9
+79037,Rivière-Rouge,79,Antoine-Labelle,15,Laurentides,4314,75058,44.7,73.2
+34030,Cap-Santé,34,Portneuf,03,Capitale-Nationale,20629,77793,35.3,56.0
+34025,Donnacona,34,Portneuf,03,Capitale-Nationale,2000,66590,42.0,49.0
+79088,Mont-Laurier,79,Antoine-Labelle,15,Laurentides,14449,75466,43.1,64.4
+34065,Saint-Marc-des-Carrières,34,Portneuf,03,Capitale-Nationale,18542,70674,45.5,62.2
+26030,Sainte-Marie,26,La Nouvelle-Beauce,12,Chaudière-Appalaches,12432,62174,39.2,60.2
+37067,Trois-Rivières,371,Trois-Rivières,04,Mauricie,142000,59000,45.3,62.2
+38010,Bécancour,38,Bécancour,17,Centre-du-Québec,2000,64773,48.4,64.6
+83065,Maniwaki,83,La Vallée-de-la-Gatineau,07,Outaouais,8911,62206,37.5,70.0
+27043,Saint-Joseph-de-Beauce,27,Robert-Cliche,12,Chaudière-Appalaches,2000,66413,48.8,65.7
+52080,Saint-Gabriel,52,D'Autray,14,Lanaudière,32842,65168,45.9,77.1
+27028,Beauceville,27,Robert-Cliche,12,Chaudière-Appalaches,25145,67928,47.9,53.5
+32043,Plessisville,32,L'Érable,17,Centre-du-Québec,38673,68405,41.8,51.0
+78102,Mont-Tremblant,78,Les Laurentides,15,Laurentides,41479,58190,46.1,81.6
+32033,Princeville,32,L'Érable,17,Centre-du-Québec,83451,74495,47.0,71.3
+51015,Louiseville,51,Maskinongé,04,Mauricie,2000,73242,36.9,50.9
+50072,Nicolet,50,Nicolet-Yamaska,17,Centre-du-Québec,11797,62695,43.8,65.4
+39152,Daveluyville,39,Arthabaska,17,Centre-du-Québec,8621,72112,49.8,50.9
+29073,Saint-Georges,29,Beauce-Sartigan,12,Chaudière-Appalaches,2000,59216,44.2,50.2
+31084,Thetford Mines,31,Les Appalaches,12,Chaudière-Appalaches,3132,59311,45.4,62.1
+83032,Gracefield,83,La Vallée-de-la-Gatineau,07,Outaouais,26708,55197,39.4,70.1
+78032,Sainte-Agathe-des-Monts,78,Les Laurentides,15,Laurentides,2000,66964,40.7,73.8
+39062,Victoriaville,39,Arthabaska,17,Centre-du-Québec,14876,68780,41.1,71.6
+77012,Sainte-Marguerite-du-Lac-Masson,77,Les Pays-d'en-Haut,15,Laurentides,29514,51155,43.9,68.7
+52035,Berthierville,52,D'Autray,14,Lanaudière,2000,54367,41.6,70.5
+77011,Estérel,77,Les Pays-d'en-Haut,15,Laurentides,16467,71771,39.3,62.5
+61030,Notre-Dame-des-Prairies,61,Joliette,14,Lanaudière,7579,89646,43.6,64.9
+53052,Sorel-Tracy,53,Pierre-De Saurel,16,Montérégie,6350,64919,49.3,78.8
+53050,Saint-Joseph-de-Sorel,53,Pierre-De Saurel,16,Montérégie,11671,74856,49.5,59.0
+61025,Joliette,61,Joliette,14,Lanaudière,5990,74925,42.1,46.2
+77022,Sainte-Adèle,77,Les Pays-d'en-Haut,15,Laurentides,42451,67167,39.4,54.6
+49058,Drummondville,49,Drummond,17,Centre-du-Québec,2714,68157,48.4,69.6
+39077,Warwick,39,Arthabaska,17,Centre-du-Québec,5363,58599,40.2,52.1
+78050,Barkmere,78,Les Laurentides,15,Laurentides,2000,73191,40.7,62.1
+61013,Crabtree,61,Joliette,14,Lanaudière,2000,73062,45.0,75.6
+59035,Contrecoeur,59,Marguerite-D'Youville,16,Montérégie,29719,84306,41.5,78.2
+52007,Lavaltrie,52,D'Autray,14,Lanaudière,11867,72870,38.4,61.1
+53032,Saint-Ours,53,Pierre-De Saurel,16,Montérégie,46503,84566,47.1,71.4
+60028,L'Assomption,60,L'Assomption,14,Lanaudière,6580,58888,46.5,53.6
+77043,Saint-Sauveur,77,Les Pays-d'en-Haut,15,Laurentides,2000,60296,39.0,63.9
+31015,Disraeli,31,Les Appalaches,12,Chaudière-Appalaches,41224,69626,44.7,73.3
+63048,Saint-Lin–Laurentides,63,Montcalm,14,Lanaudière,4822,66660,39.9,51.6
+75040,Prévost,75,La Rivière-du-Nord,15,Laurentides,37626,65497,37.5,51.0
+60037,L'Épiphanie,60,L'Assomption,14,Lanaudière,22289,86781,48.5,49.1
+39097,Kingsey Falls,39,Arthabaska,17,Centre-du-Québec,25197,65492,44.6,68.4
+40047,Danville,40,Les Sources,05,Estrie,50827,66973,36.8,51.3
+75017,Saint-Jérôme,75,La Rivière-du-Nord,15,Laurentides,10557,85450,42.4,73.3
+64008,Terrebonne,64,Les Moulins,14,Lanaudière,88344,69463,46.8,63.9
+64015,Mascouche,64,Les Moulins,14,Lanaudière,21686,65698,40.6,69.8
+60013,Repentigny,60,L'Assomption,14,Lanaudière,40905,75865,44.6,51.4
+73035,Sainte-Anne-des-Plaines,73,Thérèse-De Blainville,15,Laurentides,7925,59298,37.8,41.6
+40043,Val-des-Sources,40,Les Sources,05,Estrie,15239,57402,36.0,59.3
+75005,Saint-Colomban,75,La Rivière-du-Nord,15,Laurentides,34016,61329,47.7,36.8
+74005,Mirabel,74,Mirabel,15,Laurentides,19939,60146,44.8,64.2
+76043,Brownsburg-Chatham,76,Argenteuil,15,Laurentides,33082,53631,39.6,60.7
+59020,Varennes,59,Marguerite-D'Youville,16,Montérégie,9757,84708,44.7,66.8
+60005,Charlemagne,60,L'Assomption,14,Lanaudière,32393,53920,47.7,59.9
+76020,Lachute,76,Argenteuil,15,Laurentides,5601,75578,47.7,56.8
+73015,Blainville,73,Thérèse-De Blainville,15,Laurentides,64144,69207,41.1,64.0
+54048,Saint-Hyacinthe,54,Les Maskoutains,16,Montérégie,19053,79319,35.3,84.2
+66023,Montréal,66,Montréal,06,Montréal,1800000,62000,39.5,64.3
+65005,Laval,65,Laval,13,Laval,445000,73000,40.8,62.8
+59015,Saint-Amable,59,Marguerite-D'Youville,16,Montérégie,10176,62751,48.1,59.3
+73030,Bois-des-Filion,73,Thérèse-De Blainville,15,Laurentides,36198,61757,49.9,54.3
+73025,Lorraine,73,Thérèse-De Blainville,15,Laurentides,5632,74679,36.5,54.3
+42098,Richmond,42,Le Val-Saint-François,05,Estrie,2000,68390,42.4,55.1
+48028,Acton Vale,48,Acton,16,Montérégie,15749,77437,41.9,69.9
+73020,Rosemère,73,Thérèse-De Blainville,15,Laurentides,9210,71238,43.6,52.0
+73010,Sainte-Thérèse,73,Thérèse-De Blainville,15,Laurentides,16944,69010,40.2,56.9
+58033,Boucherville,58,Longueuil,16,Montérégie,3257,57895,41.6,60.6
+59010,Sainte-Julie,59,Marguerite-D'Youville,16,Montérégie,4529,55415,45.7,52.4
+73005,Boisbriand,73,Thérèse-De Blainville,15,Laurentides,7353,63526,44.0,68.4
+66007,Montréal-Est,66,Montréal,06,Montréal,10910,59020,49.0,71.3
+57040,Beloeil,57,La Vallée-du-Richelieu,16,Montérégie,4037,72870,47.1,74.9
+57035,Mont-Saint-Hilaire,57,La Vallée-du-Richelieu,16,Montérégie,17741,66351,45.7,53.7
+80050,Thurso,80,Papineau,07,Outaouais,4047,74653,38.9,57.1
+72005,Saint-Eustache,72,Deux-Montagnes,15,Laurentides,9274,54567,49.7,51.9
+30030,Lac-Mégantic,30,Le Granit,05,Estrie,13222,84322,49.6,57.0
+81017,Gatineau,81,Gatineau,07,Outaouais,295000,81000,39.1,65.9
+42088,Windsor,42,Le Val-Saint-François,05,Estrie,25674,66305,40.1,36.9
+58227,Longueuil,58,Longueuil,16,Montérégie,255000,69000,41.5,56.6
+54008,Saint-Pie,54,Les Maskoutains,16,Montérégie,97503,69542,42.4,72.6
+57020,Saint-Basile-le-Grand,57,La Vallée-du-Richelieu,16,Montérégie,7228,67529,42.4,67.6
+58037,Saint-Bruno-de-Montarville,58,Longueuil,16,Montérégie,2895,73413,42.5,74.1
+72010,Deux-Montagnes,72,Deux-Montagnes,15,Laurentides,17466,58211,44.1,65.3
+57025,McMasterville,57,La Vallée-du-Richelieu,16,Montérégie,27861,63093,41.4,53.8
+57030,Otterburn Park,57,La Vallée-du-Richelieu,16,Montérégie,27067,58284,50.8,50.5
+72015,Sainte-Marthe-sur-le-Lac,72,Deux-Montagnes,15,Laurentides,13662,59972,48.9,41.7
+41080,Scotstown,41,Le Haut-Saint-François,05,Estrie,3007,66401,44.1,60.5
+71133,Rigaud,71,Vaudreuil-Soulanges,16,Montérégie,30543,63382,41.1,63.7
+66072,Mont-Royal,66,Montréal,06,Montréal,2000,66107,41.7,64.8
+43027,Sherbrooke,43,Sherbrooke,05,Estrie,175000,61000,40.2,51.5
+58012,Saint-Lambert,58,Longueuil,16,Montérégie,19314,63016,42.0,57.3
+57010,Carignan,57,La Vallée-du-Richelieu,16,Montérégie,5459,72347,44.3,58.9
+66142,Dollard-des-Ormeaux,66,Montréal,06,Montréal,10286,51707,42.3,67.9
+42055,Valcourt,42,Le Val-Saint-François,05,Estrie,48451,69574,38.5,65.1
+66032,Westmount,66,Montréal,06,Montréal,38583,58681,44.7,53.1
+41060,East Angus,41,Le Haut-Saint-François,05,Estrie,9108,50771,42.2,71.9
+66087,Dorval,66,Montréal,06,Montréal,2000,65890,42.4,62.1
+66058,Côte-Saint-Luc,66,Montréal,06,Montréal,53983,68944,45.7,40.6
+55048,Marieville,55,Rouville,16,Montérégie,15424,70875,43.9,67.9
+66062,Hampstead,66,Montréal,06,Montréal,29844,73476,38.2,73.9
+58007,Brossard,58,Longueuil,16,Montérégie,2000,75782,42.8,59.4
+71100,Hudson,71,Vaudreuil-Soulanges,16,Montérégie,2000,71032,39.8,47.1
+66097,Pointe-Claire,66,Montréal,06,Montréal,19144,70670,43.3,62.5
+55023,Saint-Césaire,55,Rouville,16,Montérégie,17135,65257,42.0,65.6
+66102,Kirkland,66,Montréal,06,Montréal,18493,74465,44.8,59.8
+71083,Vaudreuil-Dorion,71,Vaudreuil-Soulanges,16,Montérégie,5317,63751,40.9,64.7
+57005,Chambly,57,La Vallée-du-Richelieu,16,Montérégie,5749,62500,46.0,56.4
+66047,Montréal-Ouest,66,Montréal,06,Montréal,3359,68917,43.7,60.5
+47017,Granby,47,La Haute-Yamaska,05,Estrie,12113,67823,40.6,47.9
+55057,Richelieu,55,Rouville,16,Montérégie,7414,55165,45.3,55.1
+41038,Cookshire-Eaton,41,Le Haut-Saint-François,05,Estrie,58868,65397,47.2,59.2
+71105,Saint-Lazare,71,Vaudreuil-Soulanges,16,Montérégie,55945,70013,52.4,43.9
+66117,Sainte-Anne-de-Bellevue,66,Montréal,06,Montréal,61921,66184,50.4,65.1
+66107,Beaconsfield,66,Montréal,06,Montréal,2000,57848,44.5,68.6
+67015,La Prairie,67,Roussillon,16,Montérégie,2000,62336,37.6,57.5
+66112,Baie-D'Urfé,66,Montréal,06,Montréal,30840,55239,40.2,65.1
+71095,L'Île-Cadieux,71,Vaudreuil-Soulanges,16,Montérégie,18601,61026,39.0,50.0
+66092,L'Île-Dorval,66,Montréal,06,Montréal,8158,64978,43.8,70.2
+56083,Saint-Jean-sur-Richelieu,56,Le Haut-Richelieu,16,Montérégie,10838,51793,45.6,83.2
+67030,Sainte-Catherine,67,Roussillon,16,Montérégie,7774,76616,37.9,67.9
+67025,Delson,67,Roussillon,16,Montérégie,27289,66840,38.4,51.5
+71065,Notre-Dame-de-l'Île-Perrot,71,Vaudreuil-Soulanges,16,Montérégie,10140,58860,40.6,83.6
+67020,Candiac,67,Roussillon,16,Montérégie,11223,81571,45.9,58.6
+71060,L'Île-Perrot,71,Vaudreuil-Soulanges,16,Montérégie,6705,47397,46.1,57.4
+67050,Châteauguay,67,Roussillon,16,Montérégie,56542,83368,40.4,70.6
+67035,Saint-Constant,67,Roussillon,16,Montérégie,2000,53200,45.4,64.8
+71070,Pincourt,71,Vaudreuil-Soulanges,16,Montérégie,2674,64161,47.1,57.8
+67055,Léry,67,Roussillon,16,Montérégie,2000,55589,45.8,56.0
+47025,Waterloo,47,La Haute-Yamaska,05,Estrie,30168,69395,47.4,59.3
+71040,Coteau-du-Lac,71,Vaudreuil-Soulanges,16,Montérégie,9751,70028,42.0,54.4
+46078,Bromont,46,Brome-Missisquoi,05,Estrie,12649,62177,46.0,48.0
+44080,Waterville,44,Coaticook,05,Estrie,74294,61286,43.7,59.7
+67045,Mercier,67,Roussillon,16,Montérégie,12540,74850,41.6,48.3
+46112,Farnham,46,Brome-Missisquoi,05,Estrie,36673,64116,48.0,64.4
+70022,Beauharnois,70,Beauharnois-Salaberry,16,Montérégie,6204,75871,42.7,71.8
+68055,Saint-Rémi,68,Les Jardins-de-Napierville,16,Montérégie,4461,64061,46.5,64.1
+70052,Salaberry-de-Valleyfield,70,Beauharnois-Salaberry,16,Montérégie,13296,71659,42.7,74.1
+46075,Lac-Brome,46,Brome-Missisquoi,05,Estrie,3898,62273,37.5,60.1
+45072,Magog,45,Memphrémagog,05,Estrie,35266,68877,44.2,64.0
+71025,Saint-Zotique,71,Vaudreuil-Soulanges,16,Montérégie,10760,69469,45.3,60.4
+46080,Cowansville,46,Brome-Missisquoi,05,Estrie,2000,71440,44.1,69.8
+46050,Dunham,46,Brome-Missisquoi,05,Estrie,20434,65045,42.2,77.5
+46058,Sutton,46,Brome-Missisquoi,05,Estrie,2000,61016,37.2,61.9
+44037,Coaticook,44,Coaticook,05,Estrie,12267,77640,46.5,76.3
+46035,Bedford,46,Brome-Missisquoi,05,Estrie,24057,84065,47.6,46.6
+69055,Huntingdon,69,Le Haut-Saint-Laurent,16,Montérégie,2000,68072,43.2,68.8
+45008,Stanstead,45,Memphrémagog,05,Estrie,36849,54518,43.7,57.9
